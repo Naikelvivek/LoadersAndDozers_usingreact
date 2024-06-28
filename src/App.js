@@ -17,7 +17,7 @@ const App = () => {
                     element={<Products category="equipment" />} 
                 />
                 <Route 
-                    path="*S" 
+                    path="*" 
                     element={
                         <>
                             <Navbar />
