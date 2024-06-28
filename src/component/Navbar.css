@@ -1,0 +1,70 @@
+/* Navbar.css */
+
+.custom-navbar {
+    background-color: #EC9230; /* Specific background color for the navbar */
+    width: 1900px; /* Fixed width */
+    height: 144px; /* Fixed height */
+    padding: 23px 448px 24px 100px; /* Padding values */
+    overflow-x: hidden; /* Disable horizontal scrolling */
+}
+
+.navbar {
+    background-color: transparent; /* Transparent background for the navbar itself */
+    border: none; /* Optional: Remove default border */
+}
+
+.navbar-toggler-icon {
+    color: #000000; /* Black color for the toggler icon */
+}
+
+.navbar-nav .nav-link {
+    color: #000000 !important; /* Black color for navbar links */
+}
+
+.navbar-brand img {
+    max-width: 100%;
+    height: auto;
+}
+
+.dropdown-menu {
+    background-color: #EC9230; /* Dropdown menu background color */
+    border: none; /* Optional: Remove dropdown menu border */
+}
+
+.dropdown-menu .dropdown-item {
+    color: #000000; /* Black color for dropdown items */
+}
+
+.form-control {
+    background-color: #ffffff; /* White background color for input fields */
+    color: #000000; /* Black text color for input fields */
+    border-color: #000000; /* Black border color for input fields */
+}
+
+.btn-outline-success {
+    color: #000000; /* Black color for button text */
+    border-color: #000000; /* Black border color for button */
+}
+
+.btn-outline-success:hover {
+    background-color: #000000; /* Black background color on button hover */
+    color: #ffffff; /* White text color on button hover */
+}
+
+.btn btn-outline-primary rounded-pill mr-3 {
+    border-radius: 20px; /* Rounded corners for the "Sign In" button */
+    padding: 8px 16px; /* Adjust padding for the button */
+    background-color: hsl(0, 100%, 1%); /* White background color for the button */
+    color: #000000 !important; /* Black text color for the button */
+}
+
+.rounded-btn:hover {
+    background-color: #000000; /* Black background color on button hover */
+    color: #ffffff !important; /* White text color on button hover */
+}
+
+.nav-item-1{
+    color:#000000;
+}
+
+/* Customize other styles as per your design requirements */

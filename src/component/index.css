@@ -1,0 +1,5938 @@
+.loadersdozers-1-icon {
+    height: 97px;
+    width: 283px;
+    position: relative;
+    object-fit: cover;
+    display: none;
+  }
+  .link {
+    align-self: stretch;
+    width: 283px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    background-image: url(./public/loadersdozers-1@2x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+  }
+  .svg-icon {
+    width: 13px;
+    height: 18px;
+    position: relative;
+  }
+  .container5 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0 var(--padding-8xs) 0 var(--padding-6xs);
+  }
+  .set-location {
+    text-decoration: none;
+    position: relative;
+    color: inherit;
+    display: inline-block;
+    min-width: 87px;
+    white-space: nowrap;
+  }
+  .container6 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .svg-icon1 {
+    width: 10px;
+    height: 4px;
+    position: relative;
+  }
+  .container7 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 7.5px var(--padding-8xs) 4.5px var(--padding-6xs);
+  }
+  .container3,
+  .container4 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .a {
+    text-decoration: none;
+    position: relative;
+    color: inherit;
+    display: inline-block;
+    min-width: 101px;
+    white-space: nowrap;
+  }
+  .link1,
+  .linkmargin {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .linkmargin {
+    align-items: flex-start;
+    padding: 0 0 0 var(--padding-5xl);
+  }
+  .sign-in {
+    text-decoration: none;
+    position: relative;
+    color: inherit;
+    display: inline-block;
+    min-width: 47px;
+  }
+  .link2 {
+    border-radius: var(--br-11xl);
+    border: 1px solid var(--color-black);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: var(--padding-7xs) var(--padding-7xl);
+    white-space: nowrap;
+  }
+  .container8,
+  .margin {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .margin {
+    align-items: flex-start;
+    padding: 0 0 0 var(--padding-5xl);
+  }
+  .container2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 0 0 0 325px;
+  }
+  .equipment {
+    text-decoration: none;
+    position: relative;
+    line-height: 18px;
+    font-weight: 500;
+    color: inherit;
+    display: inline-block;
+    min-width: 96px;
+  }
+  .link3 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-11xs-5) 0;
+  }
+  .svg-icon2 {
+    height: 4px;
+    width: 10px;
+    position: relative;
+  }
+  .container10,
+  .item {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+  }
+  .container10 {
+    align-items: center;
+    padding: var(--padding-2xs-7) 0 var(--padding-5xs-3);
+  }
+  .item {
+    flex: 1;
+    align-items: flex-start;
+    padding: 0;
+    gap: var(--gap-8xs-2);
+  }
+  .service-areas {
+    text-decoration: none;
+    position: relative;
+    line-height: 18px;
+    font-weight: 500;
+    color: inherit;
+    display: inline-block;
+    min-width: 120px;
+    white-space: nowrap;
+  }
+  .item1,
+  .link4 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .link4 {
+    flex-direction: row;
+    padding: var(--padding-11xs-5) 0;
+  }
+  .item1 {
+    flex: 1;
+    flex-direction: column;
+    padding: 0;
+  }
+  .resources {
+    text-decoration: none;
+    position: relative;
+    line-height: 18px;
+    font-weight: 500;
+    color: inherit;
+    display: inline-block;
+    min-width: 91px;
+  }
+  .link5 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-11xs-5) 0;
+  }
+  .svg-icon3 {
+    height: 4px;
+    width: 10px;
+    position: relative;
+  }
+  .container11,
+  .item2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+  }
+  .container11 {
+    align-items: center;
+    padding: var(--padding-2xs-7) 0 var(--padding-5xs-3);
+  }
+  .item2 {
+    align-items: flex-start;
+    gap: var(--gap-8xs-2);
+  }
+  .about {
+    text-decoration: none;
+    position: relative;
+    line-height: 18px;
+    font-weight: 500;
+    color: inherit;
+    display: inline-block;
+    min-width: 53px;
+  }
+  .link6 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-11xs-5) 0;
+  }
+  .svg-icon4 {
+    height: 4px;
+    width: 10px;
+    position: relative;
+  }
+  .container12,
+  .item3,
+  .list {
+    display: flex;
+    flex-direction: row;
+  }
+  .container12 {
+    align-items: center;
+    justify-content: flex-start;
+    padding: var(--padding-2xs-7) 0 var(--padding-5xs-3);
+  }
+  .item3,
+  .list {
+    align-items: flex-start;
+    padding: 0;
+  }
+  .item3 {
+    justify-content: flex-start;
+    gap: var(--gap-8xs-2);
+  }
+  .list {
+    margin-top: -2px;
+    width: 476.2px;
+    justify-content: center;
+    box-sizing: border-box;
+    gap: 25px;
+    max-width: 100%;
+  }
+  .svg-icon5 {
+    height: 20px;
+    width: 20px;
+    position: relative;
+  }
+  .container16 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: var(--padding-10xs-7) 0 0;
+  }
+  .container15 {
+    padding: var(--padding-11xs) var(--padding-11xs) 0;
+  }
+  .container14,
+  .container15 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .svg-icon6 {
+    height: 20px;
+    width: 23px;
+    position: relative;
+  }
+  .container18 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: var(--padding-10xs-7) 0 0;
+  }
+  .container17 {
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 0 0 1.3px;
+  }
+  .container13,
+  .container17,
+  .margin2 {
+    display: flex;
+    align-items: flex-start;
+  }
+  .margin2 {
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 0 0 var(--padding-2xl);
+  }
+  .container13 {
+    height: 24px;
+    flex-direction: row;
+    justify-content: flex-start;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .margin1 {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+    min-width: 68px;
+  }
+  .container9 {
+    width: 668px;
+    flex-direction: row;
+    align-items: flex-start;
+    max-width: 100%;
+    font-size: var(--wwwbigrentzcom-work-sans-medium-18-size);
+  }
+  .container,
+  .container1,
+  .container9,
+  .header {
+    display: flex;
+    justify-content: flex-start;
+  }
+  .container1 {
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 41px;
+    max-width: 100%;
+  }
+  .container,
+  .header {
+    align-self: stretch;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0 var(--padding-base);
+    box-sizing: border-box;
+    max-width: 1024px;
+  }
+  .header {
+    height: 144px;
+    background-color: #ec9230;
+    flex-shrink: 0;
+    justify-content: center;
+    padding: var(--padding-4xl) var(--padding-xl) var(--padding-5xl);
+    max-width: 100%;
+    text-align: center;
+    font-size: var(--wwwbigrentzcom-work-sans-regular-14-size);
+    color: var(--color-black);
+    font-family: var(--wwwbigrentzcom-work-sans-medium-18);
+  }
+  .equipment-yard,
+  .the-nations-local {
+    margin: 0;
+  }
+  .the-nations-local-container {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    line-height: 74.2px;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-family: inherit;
+    text-shadow: 0 0 25px rgba(0, 0, 0, 0.3);
+  }
+  .section {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 77.5px var(--padding-xl) 77px;
+    box-sizing: border-box;
+    background-image: url(./public/section@3x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    min-height: 330px;
+    text-align: center;
+    font-size: var(--wwwbigrentzcom-work-sans-black-53-upper-size);
+    color: var(--color-white);
+    font-family: var(--wwwbigrentzcom-work-sans-medium-18);
+  }
+  .ft-scissor {
+    align-self: stretch;
+    position: relative;
+    font-weight: 600;
+  }
+  .container22,
+  .input-conduct-a-search {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .container22 {
+    align-self: stretch;
+    overflow: hidden;
+    padding: var(--padding-11xs) 0;
+  }
+  .input-conduct-a-search {
+    flex: 1;
+    padding: var(--padding-10xl) var(--padding-26xl) var(--padding-7xl);
+    box-sizing: border-box;
+    min-width: 408px;
+    max-width: 100%;
+  }
+  .svg-icon7 {
+    height: 24px;
+    width: 24px;
+    position: relative;
+    object-fit: contain;
+  }
+  .button {
+    height: 80px;
+    width: 98px;
+    border-radius: 0 var(--br-21xl) 0 0;
+    background-color: var(--color-darkorange-100);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 29.7px var(--padding-8xs) 26.3px;
+    box-sizing: border-box;
+  }
+  .backgroundshadow,
+  .form {
+    align-self: stretch;
+    max-width: 100%;
+  }
+  .form {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: flex-start;
+    row-gap: 20px;
+  }
+  .backgroundshadow {
+    box-shadow: 0 20px 20px rgba(0, 0, 0, 0.1);
+    border-radius: var(--br-21xl);
+    background-color: var(--color-white);
+    overflow: hidden;
+  }
+  .backgroundshadow,
+  .container20,
+  .container21 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .container21 {
+    align-self: stretch;
+    max-width: 100%;
+  }
+  .container20 {
+    margin-bottom: -39px;
+    width: 725px;
+    max-width: calc(100% - NaNpx);
+    flex-shrink: 0;
+  }
+  .section2 {
+    width: 100%;
+    height: 1px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: center;
+    max-width: 1024px;
+    z-index: 1;
+  }
+  .equipment1 {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    line-height: 48px;
+    font-weight: 800;
+    font-family: inherit;
+    flex-shrink: 0;
+    debug_commit: 448091;
+  }
+  .container24 {
+    align-self: stretch;
+    height: 1px;
+    position: relative;
+    display: none;
+  }
+  .aerial-work-platforms,
+  .material-handling {
+    position: absolute;
+    top: 1.5px;
+    left: 103.7px;
+    line-height: 18px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .material-handling {
+    left: 332.1px;
+  }
+  .popular {
+    text-decoration: none;
+    position: relative;
+    font-weight: 500;
+    color: inherit;
+    display: inline-block;
+    min-width: 68px;
+  }
+  .background {
+    align-self: stretch;
+    height: 5px;
+    position: relative;
+    background-color: var(--color-steelblue-200);
+  }
+  .popular-label {
+    width: 68px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 13px;
+  }
+  .site-services {
+    position: relative;
+    line-height: 18px;
+    font-weight: 500;
+    display: inline-block;
+    min-width: 115px;
+  }
+  .site-services-label {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+    margin-top: -37.5px;
+    text-align: center;
+    color: var(--color-silver);
+  }
+  .popular-category {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+    text-align: left;
+    color: var(--color-steelblue-200);
+  }
+  .aerial-work-platforms-parent {
+    height: 39px;
+    flex: 1;
+    position: relative;
+    max-width: calc(100% - 354px);
+  }
+  .earthmoving {
+    position: relative;
+    line-height: 18px;
+    font-weight: 500;
+    display: inline-block;
+    min-width: 111px;
+  }
+  .earthmoving-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-11xs-5) 0 0;
+  }
+  .browse-all-equipment {
+    position: relative;
+  }
+  .earthmoving-label,
+  .linkmargin1 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .linkmargin1 {
+    padding: 0 0 0 33px;
+    box-sizing: border-box;
+    min-width: 174.61px;
+    z-index: 1;
+    margin-left: -0.3px;
+    text-align: right;
+    font-size: var(--font-size-base);
+    color: var(--color-steelblue-200);
+    font-family: var(--wwwbigrentzcom-open-sans-bold-12-upper);
+  }
+  .earthmoving-label {
+    row-gap: 20px;
+  }
+  .container23,
+  .horizontalborder,
+  .section1 {
+    display: flex;
+    justify-content: flex-start;
+    box-sizing: border-box;
+  }
+  .horizontalborder {
+    align-self: stretch;
+    height: 37px;
+    border-bottom: 1px solid var(--color-lightgray);
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0 0 var(--padding-mini);
+    gap: 35.3px;
+    flex-shrink: 0;
+    debug_commit: 448091;
+    max-width: 100%;
+    z-index: 1;
+    text-align: center;
+    font-size: var(--wwwbigrentzcom-work-sans-medium-18-size);
+    color: var(--color-silver);
+  }
+  .container23,
+  .section1 {
+    flex-direction: column;
+  }
+  .container23 {
+    width: 100%;
+    height: 109.6px;
+    align-items: flex-start;
+    padding: 72.6px var(--padding-base) 0;
+    gap: 25.4px;
+    max-width: 1024px;
+    font-size: var(--font-size-15xl);
+    color: var(--wwwbigrentzcom-ebony-clay);
+    font-family: var(--wwwbigrentzcom-work-sans-medium-18);
+  }
+  .section1 {
+    align-self: stretch;
+    background-color: var(--color-whitesmoke-100);
+    align-items: center;
+    padding: 0 var(--padding-xl) var(--padding-xs);
+    gap: 111px;
+    max-width: 100%;
+    text-align: left;
+    font-size: var(--wwwbigrentzcom-work-sans-medium-18-size);
+    color: var(--color-gray-400);
+    font-family: var(--font-roboto);
+  }
+  .boom-lifts {
+    align-self: stretch;
+    position: relative;
+    line-height: 25px;
+    text-transform: uppercase;
+    font-weight: 900;
+    display: inline-block;
+    max-height: 24.99px;
+  }
+  .heading-2,
+  .link7 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .boom-lifts-category-imagewebp-icon {
+    width: 100%;
+    flex: 1;
+    position: relative;
+    max-width: 263.98px;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .container27,
+  .link8 {
+    align-self: stretch;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+  }
+  .link8 {
+    flex-direction: column;
+    align-items: center;
+    padding: 0 var(--padding-2xl);
+  }
+  .container27 {
+    flex-direction: row;
+    align-items: flex-start;
+  }
+  .explore-all {
+    flex: 1;
+    position: relative;
+    font-size: var(--font-size-mid);
+    font-weight: 600;
+    font-family: var(--wwwbigrentzcom-open-sans-bold-12-upper);
+    color: var(--color-white);
+    text-align: center;
+    display: inline-block;
+    min-width: 90.1px;
+  }
+  .backgroundbordershadow,
+  .link9 {
+    display: flex;
+    align-items: flex-start;
+  }
+  .link9 {
+    cursor: pointer;
+    border: 1px solid var(--color-steelblue-200);
+    padding: var(--padding-smi) var(--padding-67xl);
+    background-color: var(--color-steelblue-200);
+    align-self: stretch;
+    border-radius: var(--br-11xl);
+    flex-direction: row;
+    justify-content: center;
+    white-space: nowrap;
+  }
+  .link12:hover,
+  .link15:hover,
+  .link18:hover,
+  .link21:hover,
+  .link24:hover,
+  .link27:hover,
+  .link30:hover,
+  .link33:hover,
+  .link9:hover {
+    background-color: var(--color-steelblue-100);
+    border: 1px solid var(--color-steelblue-100);
+    box-sizing: border-box;
+  }
+  .backgroundbordershadow {
+    height: 390px;
+    width: 320px;
+    box-shadow: 0 20px 20px rgba(0, 0, 0, 0.07);
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-whitesmoke-200);
+    box-sizing: border-box;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: var(--padding-11xl) var(--padding-11xl) var(--padding-23xl)
+      var(--padding-5xl);
+    min-height: 390px;
+  }
+  .scissor-lifts {
+    align-self: stretch;
+    position: relative;
+    line-height: 25px;
+    text-transform: uppercase;
+    font-weight: 900;
+    display: inline-block;
+    max-height: 24.99px;
+  }
+  .heading-21,
+  .link10 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .scissor-lifts-category-image-1-icon {
+    width: 100%;
+    flex: 1;
+    position: relative;
+    max-width: 263.98px;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .container28,
+  .link11 {
+    align-self: stretch;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+  }
+  .link11 {
+    flex-direction: column;
+    align-items: center;
+    padding: 0 var(--padding-2xl);
+  }
+  .container28 {
+    flex-direction: row;
+    align-items: flex-start;
+  }
+  .explore-all1 {
+    flex: 1;
+    position: relative;
+    font-size: var(--font-size-mid);
+    font-weight: 600;
+    font-family: var(--wwwbigrentzcom-open-sans-bold-12-upper);
+    color: var(--color-white);
+    text-align: center;
+    display: inline-block;
+    min-width: 90.1px;
+  }
+  .backgroundbordershadow1,
+  .link12 {
+    display: flex;
+    align-items: flex-start;
+  }
+  .link12 {
+    cursor: pointer;
+    border: 1px solid var(--color-steelblue-200);
+    padding: var(--padding-smi) var(--padding-67xl);
+    background-color: var(--color-steelblue-200);
+    align-self: stretch;
+    border-radius: var(--br-11xl);
+    flex-direction: row;
+    justify-content: center;
+    white-space: nowrap;
+  }
+  .backgroundbordershadow1 {
+    height: 390px;
+    width: 320px;
+    box-shadow: 0 20px 20px rgba(0, 0, 0, 0.07);
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-whitesmoke-200);
+    box-sizing: border-box;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: var(--padding-11xl) var(--padding-11xl) var(--padding-23xl)
+      var(--padding-5xl);
+    min-height: 390px;
+  }
+  .forklifts-material,
+  .handling {
+    margin: 0;
+  }
+  .forklifts-material-container {
+    align-self: stretch;
+    position: relative;
+    line-height: 24.99px;
+    text-transform: uppercase;
+    font-weight: 900;
+  }
+  .heading-22,
+  .link13 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .forklifts-category-imagewebp-icon {
+    width: 100%;
+    flex: 1;
+    position: relative;
+    max-width: 263.98px;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .container29,
+  .link14 {
+    align-self: stretch;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+  }
+  .link14 {
+    flex-direction: column;
+    align-items: center;
+    padding: 0 var(--padding-17xl);
+  }
+  .container29 {
+    flex-direction: row;
+    align-items: flex-start;
+  }
+  .explore-all2 {
+    flex: 1;
+    position: relative;
+    font-size: var(--font-size-mid);
+    font-weight: 600;
+    font-family: var(--wwwbigrentzcom-open-sans-bold-12-upper);
+    color: var(--color-white);
+    text-align: center;
+    display: inline-block;
+    min-width: 90.1px;
+  }
+  .backgroundbordershadow2,
+  .link15 {
+    display: flex;
+    align-items: flex-start;
+  }
+  .link15 {
+    cursor: pointer;
+    border: 1px solid var(--color-steelblue-200);
+    padding: var(--padding-smi) var(--padding-67xl);
+    background-color: var(--color-steelblue-200);
+    align-self: stretch;
+    border-radius: var(--br-11xl);
+    flex-direction: row;
+    justify-content: center;
+    white-space: nowrap;
+  }
+  .backgroundbordershadow2 {
+    height: 390px;
+    width: 320px;
+    box-shadow: 0 20px 20px rgba(0, 0, 0, 0.07);
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-whitesmoke-200);
+    box-sizing: border-box;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: var(--padding-11xl) var(--padding-11xl) var(--padding-23xl)
+      var(--padding-5xl);
+    min-height: 390px;
+  }
+  .single-man-lifts {
+    align-self: stretch;
+    position: relative;
+    line-height: 25px;
+    text-transform: uppercase;
+    font-weight: 900;
+    display: inline-block;
+    max-height: 24.99px;
+  }
+  .heading-23,
+  .link16 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .single-man-lifts-category-imag-icon {
+    width: 100%;
+    flex: 1;
+    position: relative;
+    max-width: 263.98px;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .container30,
+  .link17 {
+    align-self: stretch;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+  }
+  .link17 {
+    flex-direction: column;
+    align-items: center;
+    padding: 0 var(--padding-2xl);
+  }
+  .container30 {
+    flex-direction: row;
+    align-items: flex-start;
+  }
+  .explore-all3 {
+    flex: 1;
+    position: relative;
+    font-size: var(--font-size-mid);
+    font-weight: 600;
+    font-family: var(--wwwbigrentzcom-open-sans-bold-12-upper);
+    color: var(--color-white);
+    text-align: center;
+    display: inline-block;
+    min-width: 90.1px;
+  }
+  .backgroundbordershadow3,
+  .link18 {
+    display: flex;
+    align-items: flex-start;
+  }
+  .link18 {
+    cursor: pointer;
+    border: 1px solid var(--color-steelblue-200);
+    padding: var(--padding-smi) var(--padding-67xl);
+    background-color: var(--color-steelblue-200);
+    align-self: stretch;
+    border-radius: var(--br-11xl);
+    flex-direction: row;
+    justify-content: center;
+    white-space: nowrap;
+  }
+  .backgroundbordershadow3 {
+    height: 390px;
+    width: 320px;
+    box-shadow: 0 20px 20px rgba(0, 0, 0, 0.07);
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-whitesmoke-200);
+    box-sizing: border-box;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: var(--padding-11xl) var(--padding-11xl) var(--padding-23xl)
+      var(--padding-5xl);
+    min-height: 390px;
+  }
+  .earthmoving1,
+  .equipment2 {
+    margin: 0;
+  }
+  .earthmoving-equipment {
+    align-self: stretch;
+    position: relative;
+    line-height: 24.99px;
+    text-transform: uppercase;
+    font-weight: 900;
+  }
+  .heading-24,
+  .link19 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .earthmoving-category-imageweb-icon {
+    width: 100%;
+    flex: 1;
+    position: relative;
+    max-width: 263.98px;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .container31,
+  .link20 {
+    align-self: stretch;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+  }
+  .link20 {
+    flex-direction: column;
+    align-items: center;
+    padding: 0 var(--padding-17xl);
+  }
+  .container31 {
+    flex-direction: row;
+    align-items: flex-start;
+  }
+  .explore-all4 {
+    flex: 1;
+    position: relative;
+    font-size: var(--font-size-mid);
+    font-weight: 600;
+    font-family: var(--wwwbigrentzcom-open-sans-bold-12-upper);
+    color: var(--color-white);
+    text-align: center;
+    display: inline-block;
+    min-width: 90.1px;
+  }
+  .backgroundbordershadow4,
+  .link21 {
+    display: flex;
+    align-items: flex-start;
+  }
+  .link21 {
+    cursor: pointer;
+    border: 1px solid var(--color-steelblue-200);
+    padding: var(--padding-smi) var(--padding-67xl);
+    background-color: var(--color-steelblue-200);
+    align-self: stretch;
+    border-radius: var(--br-11xl);
+    flex-direction: row;
+    justify-content: center;
+    white-space: nowrap;
+  }
+  .backgroundbordershadow4 {
+    height: 390px;
+    width: 320px;
+    box-shadow: 0 20px 20px rgba(0, 0, 0, 0.07);
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-whitesmoke-200);
+    box-sizing: border-box;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: var(--padding-11xl) var(--padding-11xl) var(--padding-23xl)
+      var(--padding-5xl);
+    min-height: 390px;
+  }
+  .construction-site,
+  .services {
+    margin: 0;
+  }
+  .construction-site-services-container {
+    align-self: stretch;
+    position: relative;
+    line-height: 24.99px;
+    text-transform: uppercase;
+    font-weight: 900;
+  }
+  .heading-25,
+  .link22 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .site-services-category-imagew-icon {
+    width: 100%;
+    flex: 1;
+    position: relative;
+    max-width: 263.98px;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .container32,
+  .link23 {
+    align-self: stretch;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+  }
+  .link23 {
+    flex-direction: column;
+    align-items: center;
+    padding: 0 var(--padding-17xl);
+  }
+  .container32 {
+    flex-direction: row;
+    align-items: flex-start;
+  }
+  .explore-all5 {
+    flex: 1;
+    position: relative;
+    font-size: var(--font-size-mid);
+    font-weight: 600;
+    font-family: var(--wwwbigrentzcom-open-sans-bold-12-upper);
+    color: var(--color-white);
+    text-align: center;
+    display: inline-block;
+    min-width: 90.1px;
+  }
+  .backgroundbordershadow5,
+  .link24 {
+    display: flex;
+    align-items: flex-start;
+  }
+  .link24 {
+    cursor: pointer;
+    border: 1px solid var(--color-steelblue-200);
+    padding: var(--padding-smi) var(--padding-67xl);
+    background-color: var(--color-steelblue-200);
+    align-self: stretch;
+    border-radius: var(--br-11xl);
+    flex-direction: row;
+    justify-content: center;
+    white-space: nowrap;
+  }
+  .backgroundbordershadow5 {
+    height: 390px;
+    width: 320px;
+    box-shadow: 0 20px 20px rgba(0, 0, 0, 0.07);
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-whitesmoke-200);
+    box-sizing: border-box;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: var(--padding-11xl) var(--padding-11xl) var(--padding-23xl)
+      var(--padding-5xl);
+    min-height: 390px;
+  }
+  .compaction,
+  .equipment3 {
+    margin: 0;
+  }
+  .compaction-equipment {
+    align-self: stretch;
+    position: relative;
+    line-height: 24.99px;
+    text-transform: uppercase;
+    font-weight: 900;
+  }
+  .heading-26,
+  .link25 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .compaction-category-imagewebp-icon {
+    width: 100%;
+    flex: 1;
+    position: relative;
+    max-width: 263.98px;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .container33,
+  .link26 {
+    align-self: stretch;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+  }
+  .link26 {
+    flex-direction: column;
+    align-items: center;
+    padding: 0 var(--padding-17xl);
+  }
+  .container33 {
+    flex-direction: row;
+    align-items: flex-start;
+  }
+  .explore-all6 {
+    flex: 1;
+    position: relative;
+    font-size: var(--font-size-mid);
+    font-weight: 600;
+    font-family: var(--wwwbigrentzcom-open-sans-bold-12-upper);
+    color: var(--color-white);
+    text-align: center;
+    display: inline-block;
+    min-width: 90.1px;
+  }
+  .backgroundbordershadow6,
+  .link27 {
+    display: flex;
+    align-items: flex-start;
+  }
+  .link27 {
+    cursor: pointer;
+    border: 1px solid var(--color-steelblue-200);
+    padding: var(--padding-smi) var(--padding-67xl);
+    background-color: var(--color-steelblue-200);
+    align-self: stretch;
+    border-radius: var(--br-11xl);
+    flex-direction: row;
+    justify-content: center;
+    white-space: nowrap;
+  }
+  .backgroundbordershadow6 {
+    height: 390px;
+    width: 320px;
+    box-shadow: 0 20px 20px rgba(0, 0, 0, 0.07);
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-whitesmoke-200);
+    box-sizing: border-box;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: var(--padding-11xl) var(--padding-11xl) var(--padding-23xl)
+      var(--padding-5xl);
+    min-height: 390px;
+  }
+  .cranes {
+    align-self: stretch;
+    position: relative;
+    line-height: 25px;
+    text-transform: uppercase;
+    font-weight: 900;
+    display: inline-block;
+    max-height: 24.99px;
+  }
+  .heading-27,
+  .link28 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .ton-carry-deck-crane-61-15web-icon {
+    width: 100%;
+    flex: 1;
+    position: relative;
+    max-width: 263.98px;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .container34,
+  .link29 {
+    align-self: stretch;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+  }
+  .link29 {
+    flex-direction: column;
+    align-items: center;
+    padding: 0 var(--padding-2xl);
+  }
+  .container34 {
+    flex-direction: row;
+    align-items: flex-start;
+  }
+  .explore-all7 {
+    flex: 1;
+    position: relative;
+    font-size: var(--font-size-mid);
+    font-weight: 600;
+    font-family: var(--wwwbigrentzcom-open-sans-bold-12-upper);
+    color: var(--color-white);
+    text-align: center;
+    display: inline-block;
+    min-width: 90.1px;
+  }
+  .backgroundbordershadow7,
+  .link30 {
+    display: flex;
+    align-items: flex-start;
+  }
+  .link30 {
+    cursor: pointer;
+    border: 1px solid var(--color-steelblue-200);
+    padding: var(--padding-smi) var(--padding-67xl);
+    background-color: var(--color-steelblue-200);
+    align-self: stretch;
+    border-radius: var(--br-11xl);
+    flex-direction: row;
+    justify-content: center;
+    white-space: nowrap;
+  }
+  .backgroundbordershadow7 {
+    height: 390px;
+    width: 320px;
+    box-shadow: 0 20px 20px rgba(0, 0, 0, 0.07);
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-whitesmoke-200);
+    box-sizing: border-box;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: var(--padding-11xl) var(--padding-11xl) var(--padding-23xl)
+      var(--padding-5xl);
+    min-height: 390px;
+  }
+  .compressors,
+  .towable-air {
+    margin: 0;
+  }
+  .towable-air-compressors-container {
+    align-self: stretch;
+    position: relative;
+    line-height: 24.99px;
+    text-transform: uppercase;
+    font-weight: 900;
+  }
+  .heading-28,
+  .link31 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .cfm-air-compressor-55-185-1we-icon {
+    width: 100%;
+    flex: 1;
+    position: relative;
+    max-width: 263.98px;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .container35,
+  .link32 {
+    align-self: stretch;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+  }
+  .link32 {
+    flex-direction: column;
+    align-items: center;
+    padding: 0 var(--padding-17xl);
+  }
+  .container35 {
+    flex-direction: row;
+    align-items: flex-start;
+  }
+  .explore-all8 {
+    flex: 1;
+    position: relative;
+    font-size: var(--font-size-mid);
+    font-weight: 600;
+    font-family: var(--wwwbigrentzcom-open-sans-bold-12-upper);
+    color: var(--color-white);
+    text-align: center;
+    display: inline-block;
+    min-width: 90.1px;
+  }
+  .backgroundbordershadow8,
+  .link33 {
+    display: flex;
+    align-items: flex-start;
+  }
+  .link33 {
+    cursor: pointer;
+    border: 1px solid var(--color-steelblue-200);
+    padding: var(--padding-smi) var(--padding-67xl);
+    background-color: var(--color-steelblue-200);
+    align-self: stretch;
+    border-radius: var(--br-11xl);
+    flex-direction: row;
+    justify-content: center;
+    white-space: nowrap;
+  }
+  .backgroundbordershadow8 {
+    height: 390px;
+    width: 320px;
+    box-shadow: 0 20px 20px rgba(0, 0, 0, 0.07);
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-whitesmoke-200);
+    box-sizing: border-box;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: var(--padding-11xl) var(--padding-11xl) var(--padding-23xl)
+      var(--padding-5xl);
+    min-height: 390px;
+  }
+  .container25,
+  .container26,
+  .section3 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    box-sizing: border-box;
+  }
+  .container26 {
+    width: 1008px;
+    flex-wrap: wrap;
+    padding: 0 var(--padding-5xs);
+    gap: 39px 14px;
+    min-height: 1248px;
+    max-width: 100%;
+  }
+  .container25,
+  .section3 {
+    padding: var(--padding-20xl) var(--padding-5xs) 0;
+    max-width: 1024px;
+  }
+  .section3 {
+    align-self: stretch;
+    background-color: var(--color-whitesmoke-100);
+    justify-content: center;
+    padding: 0 var(--padding-xl);
+    max-width: 100%;
+    text-align: left;
+    font-size: var(--font-size-2xl);
+    color: var(--wwwbigrentzcom-ebony-clay);
+    font-family: var(--wwwbigrentzcom-work-sans-medium-18);
+  }
+  .best-deals {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    line-height: 48px;
+    font-weight: 800;
+    font-family: inherit;
+  }
+  .heading-29 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 0 0.8px;
+  }
+  .svg-icon8 {
+    width: 21px;
+    height: 20px;
+    position: relative;
+    object-fit: cover;
+  }
+  .container38,
+  .margin3 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding: var(--padding-10xs-7) 0 0;
+  }
+  .margin3 {
+    justify-content: flex-start;
+    padding: 0 0 0 var(--padding-7xl);
+  }
+  .set-location1 {
+    position: relative;
+    display: inline-block;
+    min-width: 104px;
+  }
+  .container39,
+  .margin4 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .margin4 {
+    width: 765px;
+    align-items: flex-end;
+    min-width: 103px;
+    max-width: 100%;
+    font-size: var(--font-size-base);
+    color: var(--color-steelblue-200);
+    font-family: var(--wwwbigrentzcom-open-sans-bold-12-upper);
+  }
+  .container37,
+  .horizontalborder1 {
+    align-self: stretch;
+    max-width: 100%;
+  }
+  .horizontalborder1 {
+    border-bottom: 1px solid var(--color-lightgray);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 0 11px;
+    gap: -2px;
+  }
+  .container37 {
+    align-items: flex-start;
+    padding: 0 var(--padding-5xs);
+  }
+  .container36,
+  .container37,
+  .section4 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    box-sizing: border-box;
+  }
+  .container36 {
+    width: 100%;
+    align-items: flex-start;
+    padding: 0 var(--padding-5xs);
+    max-width: 1024px;
+  }
+  .section4 {
+    align-self: stretch;
+    background-color: var(--color-whitesmoke-100);
+    align-items: center;
+    padding: 92px var(--padding-xl) 44px;
+    max-width: 100%;
+    text-align: left;
+    font-size: var(--font-size-15xl);
+    color: var(--wwwbigrentzcom-ebony-clay);
+    font-family: var(--wwwbigrentzcom-work-sans-medium-18);
+  }
+  .lbs-cushion-tire-warehouse-for-icon {
+    height: 127px;
+    flex: 1;
+    position: relative;
+    max-width: 157px;
+    overflow: hidden;
+    object-fit: contain;
+    max-height: 127px;
+  }
+  .backgroundverticalborder {
+    width: 170px;
+    border-radius: var(--br-3xs) 0 0 var(--br-3xs);
+    background-color: var(--color-gray-100);
+    border-right: 1px solid var(--color-whitesmoke-200);
+    box-sizing: border-box;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-12xl-8) var(--padding-7xs);
+  }
+  .lb-warehouse-forklift {
+    align-self: stretch;
+    position: relative;
+    line-height: 27px;
+    flex-shrink: 0;
+  }
+  .set-location2 {
+    text-decoration: underline;
+  }
+  .set-location-for-container {
+    position: relative;
+  }
+  .day,
+  .price-value {
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    min-width: 30px;
+  }
+  .price-value {
+    min-width: 46px;
+    white-space: nowrap;
+  }
+  .container45 {
+    font-size: var(--font-size-xl);
+    color: var(--color-darkorange-100);
+  }
+  .container44,
+  .container45 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .vertical-divider {
+    align-self: stretch;
+    width: 2px;
+    position: relative;
+    background-color: var(--color-whitesmoke-200);
+  }
+  .container46 {
+    height: 49px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 var(--padding-2xl);
+    box-sizing: border-box;
+  }
+  .week,
+  .week-value {
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    min-width: 43px;
+  }
+  .week-value {
+    min-width: 46px;
+    white-space: nowrap;
+  }
+  .container48 {
+    font-size: var(--font-size-xl);
+    color: var(--color-darkorange-100);
+  }
+  .container47,
+  .container48 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .vertical-divider1 {
+    align-self: stretch;
+    width: 2px;
+    position: relative;
+    background-color: var(--color-whitesmoke-200);
+  }
+  .container49 {
+    height: 49px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 var(--padding-2xl);
+    box-sizing: border-box;
+  }
+  .month,
+  .month-value {
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    min-width: 52px;
+  }
+  .month-value {
+    min-width: 63px;
+    white-space: nowrap;
+  }
+  .container51 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: var(--font-size-xl);
+    color: var(--color-darkorange-100);
+  }
+  .container50,
+  .container51 {
+    flex-direction: column;
+  }
+  .container43,
+  .container50,
+  .link34,
+  .margin5 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .container43 {
+    align-self: stretch;
+    flex-direction: row;
+    padding: 0 var(--padding-322xl) 0 0;
+    row-gap: 20px;
+  }
+  .link34,
+  .margin5 {
+    flex-direction: column;
+  }
+  .link34 {
+    align-self: stretch;
+  }
+  .margin5 {
+    width: 584px;
+    padding: var(--padding-3xl) 0 0;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .add-to-cart {
+    position: relative;
+    font-size: var(--font-size-mid);
+    line-height: 17px;
+    font-weight: 600;
+    font-family: var(--wwwbigrentzcom-open-sans-bold-12-upper);
+    color: var(--color-steelblue-200);
+    text-align: center;
+    display: inline-block;
+    min-width: 94px;
+  }
+  .button1 {
+    cursor: pointer;
+    border: 1px solid var(--color-steelblue-200);
+    padding: var(--padding-smi) var(--padding-11xl);
+    background-color: var(--color-white);
+    border-radius: var(--br-11xl);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    white-space: nowrap;
+  }
+  .button1:hover,
+  .button2:hover,
+  .button3:hover,
+  .button4:hover,
+  .button5:hover,
+  .button6:hover {
+    background-color: var(--color-gainsboro-100);
+    border: 1px solid var(--color-steelblue-100);
+    box-sizing: border-box;
+  }
+  .container42 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+    row-gap: 20px;
+    max-width: 100%;
+    gap: var(--gap-0);
+    font-size: var(--font-size-base);
+    color: var(--wwwbigrentzcom-ebony-clay);
+  }
+  .rental-pricing {
+    align-self: stretch;
+    flex-direction: column;
+    flex-shrink: 0;
+    font-size: var(--font-size-mini);
+    color: var(--color-darkgray);
+    font-family: var(--wwwbigrentzcom-open-sans-bold-12-upper);
+  }
+  .backgroundbordershadow9,
+  .rental-card,
+  .rental-info,
+  .rental-pricing {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .rental-info {
+    align-self: stretch;
+    flex-direction: column;
+    gap: var(--gap-7xs-4);
+  }
+  .backgroundbordershadow9,
+  .rental-card {
+    box-sizing: border-box;
+  }
+  .rental-card {
+    width: 740px;
+    flex-direction: column;
+    padding: var(--padding-14xl-2) 0 0;
+  }
+  .backgroundbordershadow9 {
+    align-self: stretch;
+    box-shadow: 0 20px 20px rgba(0, 0, 0, 0.07);
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-whitesmoke-200);
+    flex-direction: row;
+    padding: 0 var(--padding-12xs);
+    gap: var(--gap-21xl);
+  }
+  .lbs-42-48-ft-telehandler-13-61-icon {
+    height: 127px;
+    flex: 1;
+    position: relative;
+    max-width: 157px;
+    overflow: hidden;
+    object-fit: contain;
+    max-height: 127px;
+  }
+  .backgroundverticalborder1 {
+    width: 170px;
+    border-radius: var(--br-3xs) 0 0 var(--br-3xs);
+    background-color: var(--color-gray-100);
+    border-right: 1px solid var(--color-whitesmoke-200);
+    box-sizing: border-box;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-12xl-8) var(--padding-7xs);
+  }
+  .k-telehandler-forklift {
+    align-self: stretch;
+    position: relative;
+    line-height: 27px;
+    flex-shrink: 0;
+  }
+  .set-location3 {
+    text-decoration: underline;
+  }
+  .day1,
+  .div,
+  .set-location-for-container1 {
+    position: relative;
+  }
+  .day1,
+  .div {
+    font-weight: 600;
+    display: inline-block;
+    min-width: 30px;
+  }
+  .div {
+    min-width: 46px;
+    white-space: nowrap;
+  }
+  .container55 {
+    font-size: var(--font-size-xl);
+    color: var(--color-darkorange-100);
+  }
+  .container54,
+  .container55 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .vertical-divider2 {
+    align-self: stretch;
+    width: 2px;
+    position: relative;
+    background-color: var(--color-whitesmoke-200);
+  }
+  .container56 {
+    height: 49px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 var(--padding-2xl);
+    box-sizing: border-box;
+  }
+  .div1,
+  .week1 {
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    min-width: 43px;
+  }
+  .div1 {
+    min-width: 63px;
+    white-space: nowrap;
+  }
+  .container57,
+  .container58 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .container58 {
+    font-size: var(--font-size-xl);
+    color: var(--color-darkorange-100);
+  }
+  .container57 {
+    flex: 1;
+    min-width: 41px;
+  }
+  .vertical-divider3 {
+    align-self: stretch;
+    width: 2px;
+    position: relative;
+    background-color: var(--color-whitesmoke-200);
+  }
+  .container59 {
+    height: 49px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 var(--padding-2xl);
+    box-sizing: border-box;
+  }
+  .div2,
+  .month1 {
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    min-width: 52px;
+  }
+  .div2 {
+    min-width: 63px;
+    white-space: nowrap;
+  }
+  .container61 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: var(--font-size-xl);
+    color: var(--color-darkorange-100);
+  }
+  .container60 {
+    flex: 1;
+    flex-direction: column;
+    min-width: 41px;
+  }
+  .container53,
+  .container60,
+  .link35,
+  .margin6 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .container53 {
+    align-self: stretch;
+    flex-direction: row;
+    padding: 0 var(--padding-305xl) 0 0;
+    row-gap: 20px;
+  }
+  .link35,
+  .margin6 {
+    flex-direction: column;
+  }
+  .link35 {
+    align-self: stretch;
+  }
+  .margin6 {
+    width: 584px;
+    padding: var(--padding-3xl) 0 0;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .add-to-cart1 {
+    position: relative;
+    font-size: var(--font-size-mid);
+    line-height: 17px;
+    font-weight: 600;
+    font-family: var(--wwwbigrentzcom-open-sans-bold-12-upper);
+    color: var(--color-steelblue-200);
+    text-align: center;
+    display: inline-block;
+    min-width: 94px;
+  }
+  .button2 {
+    cursor: pointer;
+    border: 1px solid var(--color-steelblue-200);
+    padding: var(--padding-smi) var(--padding-11xl);
+    background-color: var(--color-white);
+    border-radius: var(--br-11xl);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    white-space: nowrap;
+  }
+  .container52 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+    row-gap: 20px;
+    max-width: 100%;
+    gap: var(--gap-0);
+    font-size: var(--font-size-base);
+    color: var(--wwwbigrentzcom-ebony-clay);
+  }
+  .k-telehandler-forklift-42-48-parent,
+  .set-location-for-local-pricing-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .set-location-for-local-pricing-parent {
+    flex-shrink: 0;
+    font-size: var(--font-size-mini);
+    color: var(--color-darkgray);
+    font-family: var(--wwwbigrentzcom-open-sans-bold-12-upper);
+  }
+  .k-telehandler-forklift-42-48-parent {
+    gap: var(--gap-7xs-4);
+  }
+  .backgroundbordershadow-inner,
+  .backgroundbordershadow10 {
+    box-sizing: border-box;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .backgroundbordershadow-inner {
+    width: 740px;
+    flex-direction: column;
+    padding: var(--padding-14xl-2) 0 0;
+  }
+  .backgroundbordershadow10 {
+    align-self: stretch;
+    box-shadow: 0 20px 20px rgba(0, 0, 0, 0.07);
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-whitesmoke-200);
+    flex-direction: row;
+    padding: 0 var(--padding-12xs);
+    gap: var(--gap-21xl);
+  }
+  .lbs-mini-excavator-22-150webp-icon {
+    height: 127px;
+    flex: 1;
+    position: relative;
+    max-width: 157px;
+    overflow: hidden;
+    object-fit: contain;
+    max-height: 127px;
+  }
+  .backgroundverticalborder2 {
+    width: 170px;
+    border-radius: var(--br-3xs) 0 0 var(--br-3xs);
+    background-color: var(--color-gray-100);
+    border-right: 1px solid var(--color-whitesmoke-200);
+    box-sizing: border-box;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-12xl-8) var(--padding-7xs);
+  }
+  .lb-mini-excavator {
+    align-self: stretch;
+    position: relative;
+    line-height: 27px;
+    flex-shrink: 0;
+  }
+  .set-location4 {
+    text-decoration: underline;
+  }
+  .day2,
+  .div3,
+  .set-location-for-container2 {
+    position: relative;
+  }
+  .day2,
+  .div3 {
+    font-weight: 600;
+    display: inline-block;
+    min-width: 30px;
+  }
+  .div3 {
+    min-width: 46px;
+    white-space: nowrap;
+  }
+  .container65 {
+    font-size: var(--font-size-xl);
+    color: var(--color-darkorange-100);
+  }
+  .container64,
+  .container65 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .vertical-divider4 {
+    align-self: stretch;
+    width: 2px;
+    position: relative;
+    background-color: var(--color-whitesmoke-200);
+  }
+  .container66 {
+    height: 49px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 var(--padding-2xl);
+    box-sizing: border-box;
+  }
+  .div4,
+  .week2 {
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    min-width: 43px;
+  }
+  .div4 {
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    min-width: 63px;
+    white-space: nowrap;
+  }
+  .container67,
+  .container68 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .container68 {
+    font-size: var(--font-size-xl);
+    color: var(--color-darkorange-100);
+  }
+  .container67 {
+    flex: 1;
+    min-width: 41px;
+  }
+  .vertical-divider5 {
+    align-self: stretch;
+    width: 2px;
+    position: relative;
+    background-color: var(--color-whitesmoke-200);
+  }
+  .container69 {
+    height: 49px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 var(--padding-2xl);
+    box-sizing: border-box;
+  }
+  .div5,
+  .month2 {
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    min-width: 52px;
+  }
+  .div5 {
+    min-width: 63px;
+    white-space: nowrap;
+  }
+  .container71 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: var(--font-size-xl);
+    color: var(--color-darkorange-100);
+  }
+  .container70 {
+    flex: 1;
+    flex-direction: column;
+    min-width: 41px;
+  }
+  .container63,
+  .container70,
+  .link36,
+  .margin7 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .container63 {
+    align-self: stretch;
+    flex-direction: row;
+    padding: 0 var(--padding-305xl) 0 0;
+    row-gap: 20px;
+  }
+  .link36,
+  .margin7 {
+    flex-direction: column;
+  }
+  .link36 {
+    align-self: stretch;
+  }
+  .margin7 {
+    width: 584px;
+    padding: var(--padding-3xl) 0 0;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .add-to-cart2 {
+    position: relative;
+    font-size: var(--font-size-mid);
+    line-height: 17px;
+    font-weight: 600;
+    font-family: var(--wwwbigrentzcom-open-sans-bold-12-upper);
+    color: var(--color-steelblue-200);
+    text-align: center;
+    display: inline-block;
+    min-width: 94px;
+  }
+  .button3 {
+    cursor: pointer;
+    border: 1px solid var(--color-steelblue-200);
+    padding: var(--padding-smi) var(--padding-11xl);
+    background-color: var(--color-white);
+    border-radius: var(--br-11xl);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    white-space: nowrap;
+  }
+  .container62 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+    row-gap: 20px;
+    max-width: 100%;
+    gap: var(--gap-0);
+    font-size: var(--font-size-base);
+    color: var(--wwwbigrentzcom-ebony-clay);
+  }
+  .lb-mini-excavator-parent,
+  .set-location-for-local-pricing-group {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .set-location-for-local-pricing-group {
+    flex-shrink: 0;
+    font-size: var(--font-size-mini);
+    color: var(--color-darkgray);
+    font-family: var(--wwwbigrentzcom-open-sans-bold-12-upper);
+  }
+  .lb-mini-excavator-parent {
+    gap: var(--gap-7xs-4);
+  }
+  .backgroundbordershadow-child,
+  .backgroundbordershadow11 {
+    box-sizing: border-box;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .backgroundbordershadow-child {
+    width: 740px;
+    flex-direction: column;
+    padding: var(--padding-14xl-2) 0 0;
+  }
+  .backgroundbordershadow11 {
+    align-self: stretch;
+    box-shadow: 0 20px 20px rgba(0, 0, 0, 0.07);
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-whitesmoke-200);
+    flex-direction: row;
+    padding: 0 var(--padding-12xs);
+    gap: var(--gap-21xl);
+  }
+  .ft-narrow-electric-scissor-lif-icon {
+    height: 127px;
+    flex: 1;
+    position: relative;
+    max-width: 157px;
+    overflow: hidden;
+    object-fit: contain;
+    max-height: 127px;
+  }
+  .backgroundverticalborder3 {
+    width: 170px;
+    border-radius: var(--br-3xs) 0 0 var(--br-3xs);
+    background-color: var(--color-gray-100);
+    border-right: 1px solid var(--color-whitesmoke-200);
+    box-sizing: border-box;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-12xl-8) var(--padding-7xs);
+  }
+  .scissor-lift-electric {
+    align-self: stretch;
+    position: relative;
+    line-height: 27px;
+    flex-shrink: 0;
+  }
+  .set-location5 {
+    text-decoration: underline;
+  }
+  .day3,
+  .div6,
+  .set-location-for-container3 {
+    position: relative;
+  }
+  .day3,
+  .div6 {
+    font-weight: 600;
+    display: inline-block;
+    min-width: 30px;
+  }
+  .div6 {
+    min-width: 46px;
+    white-space: nowrap;
+  }
+  .container75 {
+    font-size: var(--font-size-xl);
+    color: var(--color-darkorange-100);
+  }
+  .container74,
+  .container75 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .vertical-divider6 {
+    align-self: stretch;
+    width: 2px;
+    position: relative;
+    background-color: var(--color-whitesmoke-200);
+  }
+  .container76 {
+    height: 49px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 var(--padding-2xl);
+    box-sizing: border-box;
+  }
+  .div7,
+  .week3 {
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    min-width: 43px;
+  }
+  .div7 {
+    min-width: 46px;
+    white-space: nowrap;
+  }
+  .container78 {
+    font-size: var(--font-size-xl);
+    color: var(--color-darkorange-100);
+  }
+  .container77,
+  .container78 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .vertical-divider7 {
+    align-self: stretch;
+    width: 2px;
+    position: relative;
+    background-color: var(--color-whitesmoke-200);
+  }
+  .container79 {
+    height: 49px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 var(--padding-2xl);
+    box-sizing: border-box;
+  }
+  .div8,
+  .month3 {
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    min-width: 52px;
+  }
+  .div8 {
+    min-width: 46px;
+    white-space: nowrap;
+  }
+  .container81 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 var(--padding-7xs) 0 0;
+    font-size: var(--font-size-xl);
+    color: var(--color-darkorange-100);
+  }
+  .container80,
+  .container81 {
+    flex-direction: column;
+  }
+  .container73,
+  .container80,
+  .link37,
+  .margin8 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .container73 {
+    align-self: stretch;
+    flex-direction: row;
+    padding: 0 352px 0 0;
+    row-gap: 20px;
+  }
+  .link37,
+  .margin8 {
+    flex-direction: column;
+  }
+  .link37 {
+    align-self: stretch;
+  }
+  .margin8 {
+    width: 584px;
+    padding: var(--padding-3xl) 0 0;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .add-to-cart3 {
+    position: relative;
+    font-size: var(--font-size-mid);
+    line-height: 17px;
+    font-weight: 600;
+    font-family: var(--wwwbigrentzcom-open-sans-bold-12-upper);
+    color: var(--color-steelblue-200);
+    text-align: center;
+    display: inline-block;
+    min-width: 94px;
+  }
+  .button4 {
+    cursor: pointer;
+    border: 1px solid var(--color-steelblue-200);
+    padding: var(--padding-smi) var(--padding-11xl);
+    background-color: var(--color-white);
+    border-radius: var(--br-11xl);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    white-space: nowrap;
+  }
+  .container72 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+    row-gap: 20px;
+    max-width: 100%;
+    gap: var(--gap-0);
+    font-size: var(--font-size-base);
+    color: var(--wwwbigrentzcom-ebony-clay);
+  }
+  .set-location-for-local-pricing-container {
+    align-self: stretch;
+    flex-direction: column;
+    flex-shrink: 0;
+    font-size: var(--font-size-mini);
+    color: var(--color-darkgray);
+    font-family: var(--wwwbigrentzcom-open-sans-bold-12-upper);
+  }
+  .backgroundbordershadow12,
+  .frame-div,
+  .scissor-lift-electric-narrow-parent,
+  .set-location-for-local-pricing-container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .scissor-lift-electric-narrow-parent {
+    align-self: stretch;
+    flex-direction: column;
+    gap: var(--gap-7xs-4);
+  }
+  .backgroundbordershadow12,
+  .frame-div {
+    box-sizing: border-box;
+  }
+  .frame-div {
+    width: 740px;
+    flex-direction: column;
+    padding: var(--padding-14xl-2) 0 0;
+  }
+  .backgroundbordershadow12 {
+    align-self: stretch;
+    box-shadow: 0 20px 20px rgba(0, 0, 0, 0.07);
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-whitesmoke-200);
+    flex-direction: row;
+    padding: 0 var(--padding-12xs);
+    gap: var(--gap-21xl);
+  }
+  .ft-electric-articulating-boom-icon {
+    height: 127px;
+    flex: 1;
+    position: relative;
+    max-width: 157px;
+    overflow: hidden;
+    object-fit: contain;
+    max-height: 127px;
+  }
+  .backgroundverticalborder4 {
+    width: 170px;
+    border-radius: var(--br-3xs) 0 0 var(--br-3xs);
+    background-color: var(--color-gray-100);
+    border-right: 1px solid var(--color-whitesmoke-200);
+    box-sizing: border-box;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-12xl-8) var(--padding-7xs);
+  }
+  .articulating-boom-lift {
+    flex: 1;
+    position: relative;
+    line-height: 27px;
+    display: inline-block;
+    max-width: 100%;
+  }
+  .articulating-boom-lift-electr-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 0 5.4px;
+    box-sizing: border-box;
+    max-width: 100%;
+    flex-shrink: 0;
+    font-family: var(--font-roboto);
+  }
+  .set-location6 {
+    text-decoration: underline;
+  }
+  .set-location-for-container4 {
+    position: relative;
+    font-size: var(--font-size-mini);
+    color: var(--color-darkgray);
+    flex-shrink: 0;
+  }
+  .day4,
+  .price-value1 {
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    min-width: 30px;
+  }
+  .price-value1 {
+    min-width: 46px;
+    white-space: nowrap;
+  }
+  .container85 {
+    font-size: var(--font-size-xl);
+    color: var(--color-darkorange-100);
+  }
+  .container84,
+  .container85 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .vertical-divider8 {
+    align-self: stretch;
+    width: 2px;
+    position: relative;
+    background-color: var(--color-whitesmoke-200);
+  }
+  .container86 {
+    height: 49px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 var(--padding-2xl);
+    box-sizing: border-box;
+  }
+  .week-value1,
+  .week4 {
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    min-width: 43px;
+  }
+  .week-value1 {
+    min-width: 46px;
+    white-space: nowrap;
+  }
+  .container88 {
+    font-size: var(--font-size-xl);
+    color: var(--color-darkorange-100);
+  }
+  .container87,
+  .container88 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .vertical-divider9 {
+    align-self: stretch;
+    width: 2px;
+    position: relative;
+    background-color: var(--color-whitesmoke-200);
+  }
+  .container89 {
+    height: 49px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 var(--padding-2xl);
+    box-sizing: border-box;
+  }
+  .month-value1,
+  .month4 {
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    min-width: 52px;
+  }
+  .month-value1 {
+    min-width: 63px;
+    white-space: nowrap;
+  }
+  .container91 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: var(--font-size-xl);
+    color: var(--color-darkorange-100);
+  }
+  .container90,
+  .container91 {
+    flex-direction: column;
+  }
+  .container83,
+  .container90,
+  .link38,
+  .margin9 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .container83 {
+    align-self: stretch;
+    flex-direction: row;
+    padding: 0 var(--padding-322xl) 0 0;
+    row-gap: 20px;
+  }
+  .link38,
+  .margin9 {
+    flex-direction: column;
+  }
+  .link38 {
+    align-self: stretch;
+  }
+  .margin9 {
+    width: 584px;
+    padding: var(--padding-3xl) 0 0;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .add-to-cart4 {
+    position: relative;
+    font-size: var(--font-size-mid);
+    line-height: 17px;
+    font-weight: 600;
+    font-family: var(--wwwbigrentzcom-open-sans-bold-12-upper);
+    color: var(--color-steelblue-200);
+    text-align: center;
+    display: inline-block;
+    min-width: 94px;
+  }
+  .button5 {
+    cursor: pointer;
+    border: 1px solid var(--color-steelblue-200);
+    padding: var(--padding-smi) var(--padding-11xl);
+    background-color: var(--color-white);
+    border-radius: var(--br-11xl);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    white-space: nowrap;
+  }
+  .container82,
+  .frame-parent {
+    align-self: stretch;
+    display: flex;
+    max-width: 100%;
+  }
+  .container82 {
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+    row-gap: 20px;
+    flex-shrink: 0;
+    gap: var(--gap-0);
+    font-size: var(--font-size-base);
+  }
+  .frame-parent {
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .backgroundbordershadow-inner1 {
+    width: 740px;
+    flex-direction: column;
+    padding: var(--padding-14xl-2) 0 0;
+    box-sizing: border-box;
+  }
+  .backgroundbordershadow-inner1,
+  .backgroundbordershadow13,
+  .container41 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .backgroundbordershadow13 {
+    align-self: stretch;
+    box-shadow: 0 20px 20px rgba(0, 0, 0, 0.07);
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-whitesmoke-200);
+    box-sizing: border-box;
+    flex-direction: row;
+    padding: 0 var(--padding-12xs);
+    gap: var(--gap-21xl);
+    font-family: var(--wwwbigrentzcom-open-sans-bold-12-upper);
+  }
+  .container41 {
+    flex: 1;
+    flex-direction: column;
+    gap: var(--gap-xl);
+  }
+  .container40,
+  .section-wrapper,
+  .section5 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    box-sizing: border-box;
+  }
+  .container40 {
+    width: 1024px;
+    justify-content: flex-start;
+    padding: 0 var(--padding-base);
+    max-width: 1024px;
+  }
+  .section-wrapper,
+  .section5 {
+    max-width: 100%;
+  }
+  .section5 {
+    flex: 1;
+    background-color: var(--color-whitesmoke-100);
+    justify-content: center;
+    padding: 0 var(--padding-xl) 116px;
+  }
+  .section-wrapper {
+    align-self: stretch;
+    justify-content: flex-start;
+    padding: 0 0 137.1px;
+    text-align: left;
+    font-size: var(--font-size-lgi);
+    color: var(--wwwbigrentzcom-ebony-clay);
+    font-family: var(--font-roboto);
+  }
+  .spot-rent-onlinepng-icon {
+    height: 240px;
+    width: 240px;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+    max-height: 240px;
+  }
+  .benefit-icon {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 var(--padding-18xl) 0 var(--padding-17xl);
+  }
+  .easy-online-rental {
+    margin: 0;
+    flex: 1;
+    position: relative;
+    font-size: inherit;
+    line-height: 34px;
+    font-weight: 700;
+    font-family: inherit;
+  }
+  .benefit-title {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 var(--padding-26xl) 0 43px;
+  }
+  .background1 {
+    height: 1px;
+    width: 49px;
+    position: relative;
+    background-color: var(--color-steelblue-200);
+  }
+  .benefit-background {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 var(--padding-3xl) 0 var(--padding-xl);
+  }
+  .anytime-through-any,
+  .online-portal,
+  .place-view-and,
+  .rent-without-the {
+    margin: 0;
+  }
+  .rent-without-the-container {
+    position: relative;
+    font-size: var(--font-size-mid);
+    line-height: 29px;
+    font-family: var(--wwwbigrentzcom-open-sans-bold-12-upper);
+    color: var(--color-gray-300);
+  }
+  .container94 {
+    flex: 0.9691;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 var(--padding-xs) var(--padding-12xs-1);
+    box-sizing: border-box;
+    gap: var(--gap-18xl-4);
+    min-width: 310px;
+    max-width: 100%;
+  }
+  .spot-rent-onlinepng-icon1 {
+    height: 240px;
+    width: 240px;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+    max-height: 240px;
+  }
+  .spot-rent-onlinepng-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 var(--padding-23xl) 0 var(--padding-22xl);
+  }
+  .effortless-purchase {
+    margin: 0;
+    flex: 1;
+    position: relative;
+    font-size: inherit;
+    line-height: 34px;
+    font-weight: 700;
+    font-family: inherit;
+  }
+  .effortless-purchase-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 35px 0 34px;
+  }
+  .background2 {
+    height: 1px;
+    width: 49px;
+    position: relative;
+    background-color: var(--color-steelblue-200);
+  }
+  .background-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 var(--padding-xl);
+  }
+  .enjoy-a-hassle-free,
+  .orders-anytime-on,
+  .our-convenient-online,
+  .purchase-and-manage,
+  .today {
+    margin: 0;
+  }
+  .purchase-and-manage-container {
+    align-self: stretch;
+    position: relative;
+    font-size: var(--font-size-mid);
+    line-height: 29px;
+    font-family: var(--wwwbigrentzcom-open-sans-bold-12-upper);
+    color: var(--color-gray-300);
+  }
+  .container95 {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 var(--padding-6xs) var(--padding-12xs-1);
+    box-sizing: border-box;
+    gap: var(--gap-18xl-4);
+    min-width: 281px;
+    max-width: 100%;
+  }
+  .spot-nationwide-supplierspng-icon {
+    height: 240px;
+    flex: 1;
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    object-fit: cover;
+    max-height: 240px;
+  }
+  .spot-nationwide-supplierspng-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 var(--padding-mini) 0 var(--padding-mid);
+  }
+  .suppliers-nationwide {
+    margin: 0;
+    flex: 1;
+    position: relative;
+    font-size: inherit;
+    line-height: 34px;
+    font-weight: 700;
+    font-family: inherit;
+  }
+  .suppliers-nationwide-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 var(--padding-7xl) 0 var(--padding-9xl);
+  }
+  .background3 {
+    height: 1px;
+    width: 49px;
+    position: relative;
+    background-color: var(--color-steelblue-200);
+  }
+  .background-container {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 var(--padding-xl) 0 var(--padding-3xl);
+  }
+  .country,
+  .locations-get-next-day,
+  .partner-locations-across,
+  .rent-equipment-for {
+    margin: 0;
+  }
+  .rent-equipment-for-container {
+    position: relative;
+    font-size: var(--font-size-mid);
+    line-height: 29px;
+    font-family: var(--wwwbigrentzcom-open-sans-bold-12-upper);
+    color: var(--color-gray-300);
+  }
+  .container96 {
+    flex: 0.9691;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+    padding: 0 var(--padding-xs) var(--padding-12xs-1);
+    box-sizing: border-box;
+    gap: var(--gap-18xl-4);
+    min-width: 310px;
+    max-width: 100%;
+  }
+  .spot-we-do-everythingpng-icon {
+    height: 240px;
+    width: 237.8px;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+    max-height: 240px;
+  }
+  .spot-we-do-everythingpng-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 var(--padding-23xl) 0 var(--padding-22xl);
+  }
+  .we-handle-everything {
+    margin: 0;
+    flex: 1;
+    position: relative;
+    font-size: inherit;
+    line-height: 34px;
+    font-weight: 700;
+    font-family: inherit;
+  }
+  .we-handle-everything-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 var(--padding-10xl) 0 var(--padding-9xl);
+  }
+  .background4 {
+    height: 1px;
+    width: 49px;
+    position: relative;
+    background-color: var(--color-steelblue-200);
+  }
+  .background-frame {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 var(--padding-xl);
+  }
+  .and-invoicing-with,
+  .coordinator,
+  .support-from-your,
+  .that-includes-hauling {
+    margin: 0;
+  }
+  .that-includes-hauling-container {
+    align-self: stretch;
+    position: relative;
+    font-size: var(--font-size-mid);
+    line-height: 29px;
+    font-family: var(--wwwbigrentzcom-open-sans-bold-12-upper);
+    color: var(--color-gray-300);
+  }
+  .container92,
+  .container93,
+  .container97 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .container97 {
+    flex: 0.9938;
+    flex-direction: column;
+    padding: 0 var(--padding-5xs) var(--padding-12xs-1);
+    box-sizing: border-box;
+    gap: var(--gap-18xl-4);
+    min-width: 310px;
+    max-width: 100%;
+  }
+  .container92,
+  .container93 {
+    flex-direction: row;
+  }
+  .container93 {
+    flex: 1;
+    max-width: 100%;
+    row-gap: 20px;
+  }
+  .container92 {
+    width: 100%;
+    padding: 0 0 0 var(--padding-5xs);
+    box-sizing: border-box;
+    max-width: 1350px;
+    flex-shrink: 0;
+    debug_commit: 448091;
+  }
+  .background6 {
+    height: 5px;
+    width: 49px;
+    position: absolute;
+    margin: 0 !important;
+    top: 67.8px;
+    left: 0;
+    background-color: var(--color-steelblue-200);
+  }
+  .industry-solutions {
+    margin: 0;
+    align-self: stretch;
+    position: relative;
+    font-size: inherit;
+    line-height: 48px;
+    font-weight: 800;
+    font-family: inherit;
+  }
+  .loaders-dozers,
+  .nature-of-your,
+  .the-equipment-youll,
+  .variety-of-industries,
+  .where-youll-need {
+    margin: 0;
+  }
+  .loaders-dozers-container {
+    position: relative;
+    font-size: var(--font-size-mid);
+    line-height: 29px;
+    font-family: var(--wwwbigrentzcom-open-sans-bold-12-upper);
+    color: var(--color-gray-300);
+  }
+  .solution-header,
+  .solution-title {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .solution-title {
+    flex: 1;
+    flex-direction: column;
+    gap: 44.8px;
+  }
+  .solution-header {
+    width: 410px;
+    flex-direction: row;
+    position: relative;
+    min-width: 410px;
+  }
+  .agriculture {
+    position: relative;
+    line-height: 28px;
+    display: inline-block;
+    min-width: 88px;
+  }
+  .item4,
+  .link39 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .item4 {
+    align-self: stretch;
+    flex-direction: column;
+  }
+  .electrical-contracting {
+    position: relative;
+    line-height: 28px;
+  }
+  .item5,
+  .link40 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .item5 {
+    flex-direction: column;
+    padding: 0 var(--padding-10xl) 0 0;
+  }
+  .engineering {
+    position: relative;
+    line-height: 28px;
+    display: inline-block;
+    min-width: 94px;
+  }
+  .item6,
+  .link41 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .item6 {
+    align-self: stretch;
+    flex-direction: column;
+  }
+  .facilities-maintenance {
+    position: relative;
+    line-height: 28px;
+  }
+  .item7,
+  .link42 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .item7 {
+    flex-direction: column;
+    padding: 0 var(--padding-3xl) 0 0;
+  }
+  .general-contractor {
+    position: relative;
+    line-height: 28px;
+  }
+  .item8,
+  .link43 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .item8 {
+    align-self: stretch;
+    flex-direction: column;
+  }
+  .government-solutions {
+    position: relative;
+    line-height: 28px;
+  }
+  .item9,
+  .link44 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .item9 {
+    flex-direction: column;
+    padding: 0 var(--padding-lgi) 0 0;
+  }
+  .hvac {
+    position: relative;
+    line-height: 28px;
+    display: inline-block;
+    min-width: 45px;
+  }
+  .item10,
+  .link45 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .item10 {
+    align-self: stretch;
+    flex-direction: column;
+  }
+  .it-services {
+    position: relative;
+    line-height: 28px;
+    display: inline-block;
+    min-width: 83px;
+  }
+  .item11,
+  .link46,
+  .list1 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .item11,
+  .list1 {
+    flex-direction: column;
+  }
+  .item11 {
+    align-self: stretch;
+  }
+  .list1 {
+    width: 197px;
+    gap: var(--gap-xs);
+    min-width: 197px;
+  }
+  .entertainment,
+  .media-and {
+    position: relative;
+    line-height: 28px;
+    display: inline-block;
+    min-width: 84px;
+  }
+  .entertainment {
+    min-width: 115px;
+  }
+  .item12,
+  .link47 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .link47 {
+    gap: var(--gap-12xs-4);
+  }
+  .item12 {
+    align-self: stretch;
+  }
+  .plumbing {
+    position: relative;
+    line-height: 28px;
+    display: inline-block;
+    min-width: 76px;
+  }
+  .item13,
+  .link48 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .item13 {
+    align-self: stretch;
+    flex-direction: column;
+  }
+  .retail-construction {
+    position: relative;
+    line-height: 28px;
+  }
+  .item14,
+  .link49 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .item14 {
+    align-self: stretch;
+    flex-direction: column;
+  }
+  .covering,
+  .roofing-and-wall {
+    position: relative;
+    line-height: 28px;
+  }
+  .covering {
+    display: inline-block;
+    min-width: 70px;
+  }
+  .item15,
+  .link50 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .link50 {
+    gap: var(--gap-12xs-4);
+  }
+  .item15 {
+    align-self: stretch;
+  }
+  .telecommunications {
+    position: relative;
+    line-height: 28px;
+  }
+  .item16,
+  .link51 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .item16 {
+    flex-direction: column;
+    padding: 0 var(--padding-13xl) 0 0;
+  }
+  .warehousing {
+    position: relative;
+    line-height: 28px;
+    display: inline-block;
+    min-width: 105px;
+  }
+  .item17,
+  .link52,
+  .list2 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .item17,
+  .list2 {
+    align-self: stretch;
+    flex-direction: column;
+  }
+  .list2 {
+    gap: var(--gap-xs);
+  }
+  .view-all-solutions {
+    position: relative;
+    font-weight: 600;
+  }
+  .link53 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .background5,
+  .container98,
+  .container99 {
+    flex: 1;
+    display: flex;
+    align-items: flex-start;
+  }
+  .container99 {
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 0 var(--padding-5xs);
+    box-sizing: border-box;
+    gap: 47px;
+    min-width: 138px;
+  }
+  .background5,
+  .container98 {
+    gap: var(--gap-5xs);
+    max-width: 100%;
+  }
+  .container98 {
+    flex-direction: row;
+    justify-content: center;
+    padding: 0 0 0 var(--padding-5xs);
+    box-sizing: border-box;
+    min-width: 277px;
+    font-size: var(--font-size-mid);
+    color: var(--color-steelblue-200);
+    font-family: var(--wwwbigrentzcom-open-sans-bold-12-upper);
+  }
+  .background5 {
+    border-radius: var(--br-3xs);
+    background-color: #f9f9f9;
+    justify-content: flex-start;
+    padding: 59.2px var(--padding-59xl) var(--padding-39xl);
+  }
+  .background5,
+  .section6,
+  .solutions {
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .section6 {
+    width: 1024px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 var(--padding-5xs);
+    max-width: 1024px;
+    flex-shrink: 0;
+    debug_commit: 448091;
+  }
+  .solutions {
+    align-self: stretch;
+    justify-content: center;
+    padding: 0 var(--padding-xl);
+    text-align: left;
+    font-size: var(--font-size-15xl);
+  }
+  .benefit-items,
+  .benefits,
+  .solutions {
+    display: flex;
+    align-items: flex-start;
+    max-width: 100%;
+  }
+  .benefit-items {
+    width: 1350px;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 24.4px;
+  }
+  .benefits {
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0 var(--padding-xl) 100px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: var(--font-size-5xl);
+    color: var(--wwwbigrentzcom-ebony-clay);
+    font-family: var(--wwwbigrentzcom-work-sans-medium-18);
+  }
+  .background7 {
+    height: 5px;
+    width: 49px;
+    position: absolute;
+    margin: 0 !important;
+    top: 108.9px;
+    left: 0;
+    background-color: var(--color-steelblue-200);
+  }
+  .already-know-what,
+  .you-need {
+    margin: 0;
+  }
+  .already-know-what-container {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    line-height: 47.6px;
+    font-weight: 800;
+    font-family: inherit;
+  }
+  .done,
+  .we-make-it,
+  .your-next-rental {
+    margin: 0;
+  }
+  .we-make-it-container {
+    position: relative;
+    font-size: var(--font-size-mid);
+    line-height: 29px;
+    font-family: var(--wwwbigrentzcom-open-sans-bold-12-upper);
+    color: var(--color-gray-300);
+  }
+  .form-title,
+  .header-background {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .form-title {
+    flex-direction: column;
+    gap: 44.9px;
+  }
+  .header-background {
+    flex-direction: row;
+    position: relative;
+    min-width: 327px;
+  }
+  .label-equipment {
+    position: relative;
+    display: inline-block;
+    min-width: 79px;
+  }
+  .purchase-icon-child {
+    height: 20px;
+    width: 20px;
+    position: relative;
+    border-radius: 50%;
+    background-color: var(--color-gainsboro-300);
+  }
+  .purchase {
+    position: relative;
+    display: inline-block;
+    min-width: 56px;
+  }
+  .purchase-button {
+    flex-direction: column;
+    padding: 1.8px 0 0;
+  }
+  .input-label,
+  .purchase-button,
+  .purchase-icon {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .purchase-icon {
+    flex-direction: row;
+    gap: var(--gap-3xs);
+    color: var(--color-black);
+  }
+  .input-label {
+    flex-direction: column;
+    gap: var(--gap-11xs);
+  }
+  .input-fields1 {
+    height: 20px;
+    width: 20px;
+    position: relative;
+    border-radius: 50%;
+    background-color: var(--color-gainsboro-300);
+  }
+  .rent {
+    position: relative;
+    display: inline-block;
+    min-width: 29px;
+  }
+  .backgroundborder,
+  .rent-input {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+  }
+  .rent-input {
+    align-items: flex-start;
+    gap: var(--gap-3xs);
+    color: var(--color-black);
+  }
+  .backgroundborder {
+    align-self: stretch;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-lightgray);
+    align-items: flex-end;
+    padding: var(--padding-mid) var(--padding-5xl) var(--padding-smi);
+    gap: 119px;
+  }
+  .label-equipment1 {
+    position: relative;
+    display: inline-block;
+    min-width: 66px;
+  }
+  .backgroundborder1,
+  .input {
+    align-self: stretch;
+    background-color: var(--color-white);
+    display: flex;
+    align-items: flex-start;
+  }
+  .input {
+    width: 100%;
+    border: 0;
+    outline: 0;
+    height: 22px;
+    flex-direction: row;
+    justify-content: center;
+    padding: var(--padding-12xs) var(--padding-11xs);
+    box-sizing: border-box;
+    font-family: var(--wwwbigrentzcom-work-sans-medium-18);
+    font-size: var(--font-size-mid);
+    color: var(--color-gray-400);
+    min-width: 246px;
+  }
+  .backgroundborder1 {
+    border-radius: var(--br-3xs);
+    border: 1px solid var(--color-lightgray);
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: var(--padding-mid) var(--padding-4xl) var(--padding-smi);
+    gap: var(--gap-11xs);
+  }
+  .label-jobsite {
+    position: relative;
+    display: inline-block;
+    min-width: 96px;
+  }
+  .backgroundborder2,
+  .input1 {
+    align-self: stretch;
+    background-color: var(--color-white);
+    display: flex;
+    align-items: flex-start;
+  }
+  .input1 {
+    width: 100%;
+    border: 0;
+    outline: 0;
+    height: 22px;
+    flex-direction: row;
+    justify-content: center;
+    padding: var(--padding-12xs) var(--padding-11xs);
+    box-sizing: border-box;
+    font-family: var(--wwwbigrentzcom-work-sans-medium-18);
+    font-size: var(--font-size-mid);
+    color: var(--color-gray-400);
+    min-width: 246px;
+  }
+  .backgroundborder2 {
+    border-radius: var(--br-3xs);
+    border: 1px solid var(--color-lightgray);
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: var(--padding-mid) var(--padding-4xl) var(--padding-smi);
+    gap: var(--gap-11xs);
+  }
+  .label-start {
+    position: relative;
+    display: inline-block;
+    min-width: 62px;
+  }
+  .add-date {
+    align-self: stretch;
+    position: relative;
+    letter-spacing: -0.3px;
+  }
+  .application,
+  .background8 {
+    align-self: stretch;
+    justify-content: flex-start;
+  }
+  .application {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .background8 {
+    border-radius: var(--br-9xs);
+    background-color: var(--color-white);
+    font-size: var(--font-size-mid);
+    color: var(--color-gray-200);
+    font-family: var(--wwwbigrentzcom-work-sans-medium-18);
+  }
+  .background8,
+  .container101,
+  .margin10 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .container101 {
+    align-self: stretch;
+    justify-content: flex-start;
+    padding: var(--padding-9xs) 0 var(--padding-12xs);
+    gap: var(--gap-12xs);
+  }
+  .margin10 {
+    flex: 1;
+    justify-content: center;
+    padding: var(--padding-8xs) 0;
+  }
+  .vertical-divider10 {
+    width: 1px;
+    flex: 1;
+    position: relative;
+    background-color: var(--color-lightgray);
+  }
+  .margin11 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 var(--padding-9xl);
+  }
+  .label-end {
+    position: relative;
+    display: inline-block;
+    min-width: 54px;
+  }
+  .add-date1 {
+    align-self: stretch;
+    position: relative;
+    letter-spacing: -0.3px;
+  }
+  .application1,
+  .background9 {
+    align-self: stretch;
+    justify-content: flex-start;
+  }
+  .application1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .background9 {
+    border-radius: var(--br-9xs);
+    background-color: var(--color-white);
+    font-size: var(--font-size-mid);
+    color: var(--color-gray-200);
+    font-family: var(--wwwbigrentzcom-work-sans-medium-18);
+  }
+  .background9,
+  .container102,
+  .margin12 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .container102 {
+    align-self: stretch;
+    justify-content: flex-start;
+    padding: var(--padding-9xs) 0 var(--padding-12xs);
+    gap: var(--gap-12xs);
+  }
+  .margin12 {
+    flex: 1;
+    justify-content: center;
+    padding: var(--padding-8xs) 0;
+  }
+  .backgroundborder3,
+  .input-field {
+    align-self: stretch;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .backgroundborder3 {
+    height: 72px;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-lightgray);
+    box-sizing: border-box;
+    overflow-x: auto;
+    flex-shrink: 0;
+    flex-direction: row;
+    padding: var(--padding-3xs) var(--padding-4xl);
+  }
+  .input-field {
+    flex-direction: column;
+    gap: 11px;
+  }
+  .book-now {
+    width: 86.3px;
+    position: relative;
+    font-size: var(--font-size-mid);
+    line-height: 40px;
+    font-weight: 600;
+    font-family: var(--wwwbigrentzcom-open-sans-bold-12-upper);
+    color: var(--color-white);
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    min-width: 86.3px;
+  }
+  .button6,
+  .input-fields {
+    align-self: stretch;
+    display: flex;
+    align-items: flex-start;
+  }
+  .button6 {
+    cursor: pointer;
+    border: 1px solid var(--color-steelblue-200);
+    padding: var(--padding-smi) var(--padding-xl);
+    background-color: var(--color-steelblue-200);
+    border-radius: 35px;
+    flex-direction: row;
+    justify-content: center;
+    white-space: nowrap;
+  }
+  .button6:hover {
+    background-color: var(--color-steelblue-100);
+  }
+  .input-fields {
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 33px;
+  }
+  .backgroundbordershadow14,
+  .form-inputs {
+    flex: 1;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .form-inputs {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 16.3px 0 0;
+    box-sizing: border-box;
+    min-width: 298px;
+    font-size: var(--wwwbigrentzcom-open-sans-bold-12-upper-size);
+    font-family: var(--wwwbigrentzcom-open-sans-bold-12-upper);
+  }
+  .backgroundbordershadow14 {
+    box-shadow: 0 20px 20px rgba(0, 0, 0, 0.13);
+    border-radius: var(--br-11xl);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-whitesmoke-200);
+    padding: 57px var(--padding-46xl) var(--padding-7xs);
+    gap: 75px;
+  }
+  .backgroundbordershadow14,
+  .container100,
+  .section7 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    box-sizing: border-box;
+  }
+  .container100 {
+    width: 1024px;
+    justify-content: flex-start;
+    padding: 0 var(--padding-base);
+    max-width: 1024px;
+  }
+  .section7 {
+    align-self: stretch;
+    justify-content: center;
+    padding: 113px var(--padding-xl);
+    background-image: url(./public/section1@3x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    flex-shrink: 0;
+    debug_commit: 448091;
+    max-width: 100%;
+  }
+  .think-big {
+    margin: 0;
+    align-self: stretch;
+    position: relative;
+    font-size: inherit;
+    line-height: 48px;
+    font-weight: 800;
+    font-family: inherit;
+  }
+  .background10 {
+    width: 49px;
+    height: 5px;
+    position: absolute;
+    margin: 0 !important;
+    top: 73.8px;
+    left: 16px;
+    background-color: var(--color-steelblue-200);
+  }
+  .guides-and-equipment,
+  .we-know-equipment {
+    margin: 0;
+  }
+  .we-know-equipment-container {
+    position: relative;
+    line-height: 29px;
+  }
+  .explore-our-blog {
+    position: relative;
+    font-size: var(--font-size-base);
+    color: var(--color-steelblue-200);
+    text-align: right;
+  }
+  .blog-content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 6px;
+    max-width: 100%;
+  }
+  .supply-chain-automation-herow-icon {
+    height: 100%;
+    flex: 1;
+    overflow: hidden;
+    object-fit: contain;
+    position: absolute;
+    left: 0;
+    top: 20px;
+    width: 100%;
+    transform: scale(1.103);
+  }
+  .link54,
+  .wrapper-supply-chain-automatio {
+    height: 390px;
+    display: flex;
+    align-items: center;
+  }
+  .wrapper-supply-chain-automatio {
+    flex: 1;
+    position: relative;
+    border-radius: var(--br-3xs);
+    max-width: 520px;
+    justify-content: center;
+  }
+  .link54 {
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .technology {
+    position: relative;
+    text-transform: uppercase;
+    display: inline-block;
+    min-width: 83px;
+  }
+  .container105,
+  .link55 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .container105 {
+    align-self: stretch;
+    flex-direction: column;
+    padding: var(--padding-lgi) 0 var(--padding-12xs);
+  }
+  .guide,
+  .supply-chain-automation {
+    margin: 0;
+  }
+  .supply-chain-automation-container {
+    margin: 0;
+    align-self: stretch;
+    position: relative;
+    font-size: inherit;
+    line-height: 39.2px;
+    font-weight: 700;
+    font-family: inherit;
+  }
+  .container104,
+  .heading-210,
+  .link56 {
+    display: flex;
+    align-items: flex-start;
+    max-width: 100%;
+  }
+  .heading-210 {
+    flex: 1;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  .container104,
+  .link56 {
+    box-sizing: border-box;
+  }
+  .link56 {
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: center;
+    padding: var(--padding-5xs) 0 0;
+    font-size: 28px;
+    color: var(--wwwbigrentzcom-ebony-clay);
+    font-family: var(--wwwbigrentzcom-work-sans-medium-18);
+  }
+  .container104 {
+    flex: 1;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 0 0 0.4px;
+    min-width: 338px;
+    flex-shrink: 0;
+  }
+  .contractor-apps-herojpg-icon {
+    width: 100%;
+    flex: 1;
+    overflow: hidden;
+    object-fit: contain;
+    position: absolute;
+    left: 0;
+    top: 20px;
+    height: 100%;
+    transform: scale(1.381);
+  }
+  .wrapper-contractor-apps-heroj {
+    width: 100%;
+    flex: 1;
+    position: relative;
+    border-radius: var(--br-3xs);
+    max-width: 140px;
+    max-height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .app-image-container {
+    height: 121px;
+    width: 140px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 0 var(--padding-base);
+    box-sizing: border-box;
+    min-width: 140px;
+  }
+  .technology1 {
+    position: relative;
+    text-transform: uppercase;
+    display: inline-block;
+    min-width: 83px;
+  }
+  .top-10-contractor,
+  .your-team-needs {
+    margin: 0;
+  }
+  .top-10-contractor-container {
+    align-self: stretch;
+    height: 76px;
+    position: relative;
+    font-size: var(--wwwbigrentzcom-work-sans-medium-18-size);
+    line-height: 25.2px;
+    font-weight: 500;
+    font-family: var(--wwwbigrentzcom-work-sans-medium-18);
+    color: var(--wwwbigrentzcom-ebony-clay);
+    display: flex;
+    align-items: center;
+  }
+  .app-content,
+  .app-description {
+    display: flex;
+    justify-content: flex-start;
+  }
+  .app-description {
+    flex: 1;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--gap-3xs);
+    min-width: 144px;
+  }
+  .app-content {
+    width: 382.3px;
+    flex-direction: row;
+    align-items: flex-end;
+    gap: var(--gap-xl);
+    max-width: 100%;
+  }
+  .warehouse-logistics-herowebp-icon {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: contain;
+    position: absolute;
+    left: 0;
+    top: 20px;
+    transform: scale(1.381);
+  }
+  .wrapper-warehouse-logistics-he {
+    height: 105px;
+    width: 140px;
+    position: relative;
+    border-radius: var(--br-3xs);
+    flex-shrink: 0;
+    max-width: 140px;
+    min-height: 105px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .business {
+    position: relative;
+    text-transform: uppercase;
+    display: inline-block;
+    min-width: 58px;
+  }
+  .logistics-and-why,
+  .should-care,
+  .what-is-warehouse {
+    margin: 0;
+  }
+  .what-is-warehouse-container {
+    position: relative;
+    font-size: var(--wwwbigrentzcom-work-sans-medium-18-size);
+    letter-spacing: -0.01px;
+    line-height: 25.2px;
+    font-weight: 500;
+    font-family: var(--wwwbigrentzcom-work-sans-medium-18);
+    color: var(--wwwbigrentzcom-ebony-clay);
+  }
+  .logistics-description {
+    margin-bottom: -16px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-3xs);
+    min-width: 138px;
+  }
+  .app-container,
+  .horizontalborder2 {
+    align-self: stretch;
+    display: flex;
+    justify-content: flex-start;
+  }
+  .horizontalborder2 {
+    border-top: 1px solid var(--color-lightgray);
+    flex-direction: row;
+    align-items: flex-end;
+    padding: var(--padding-base) var(--padding-6xl) var(--padding-base-6) 0;
+    gap: var(--gap-xl);
+  }
+  .app-container {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 3px;
+    max-width: 100%;
+  }
+  .top-construction-companies-lar-icon {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: contain;
+    position: absolute;
+    left: 0;
+    top: 20px;
+    transform: scale(1.381);
+  }
+  .wrapper-top-construction-compa {
+    height: 105px;
+    width: 140px;
+    position: relative;
+    border-radius: var(--br-3xs);
+    flex-shrink: 0;
+    max-width: 140px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 0;
+  }
+  .construction {
+    position: relative;
+    text-transform: uppercase;
+    display: inline-block;
+    min-width: 96px;
+  }
+  .companies-description {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-lgi) 0 0;
+  }
+  .construction-companies,
+  .to-watch-in,
+  .top-commercial {
+    margin: 0;
+  }
+  .top-commercial-construction-container {
+    height: 101px;
+    flex: 1;
+    position: absolute;
+    margin: 0 !important;
+    right: 20px;
+    bottom: -25.4px;
+    font-size: var(--wwwbigrentzcom-work-sans-medium-18-size);
+    line-height: 25.2px;
+    font-weight: 500;
+    font-family: var(--wwwbigrentzcom-work-sans-medium-18);
+    color: var(--wwwbigrentzcom-ebony-clay);
+    display: flex;
+    align-items: center;
+  }
+  .horizontalborder3 {
+    align-self: stretch;
+    border-top: 1px solid var(--color-lightgray);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-base) 0 var(--padding-base-6);
+    position: relative;
+    gap: var(--gap-xl);
+  }
+  .app-container-parent,
+  .blog-link,
+  .container-parent {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .app-container-parent {
+    width: 399px;
+    flex-direction: column;
+    gap: var(--gap-lgi);
+    min-width: 399px;
+    flex-shrink: 0;
+  }
+  .blog-link,
+  .container-parent {
+    align-self: stretch;
+  }
+  .container-parent {
+    flex-direction: row;
+    gap: 73px;
+    font-size: var(--wwwbigrentzcom-open-sans-bold-12-upper-size);
+    color: var(--color-steelblue-200);
+  }
+  .blog-link {
+    flex-direction: column;
+    gap: var(--gap-9xl);
+    font-size: var(--font-size-mid);
+    color: var(--color-gray-300);
+    font-family: var(--wwwbigrentzcom-open-sans-bold-12-upper);
+  }
+  .container103,
+  .section8 {
+    display: flex;
+    align-items: flex-start;
+    box-sizing: border-box;
+  }
+  .container103 {
+    width: 1024px;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 0 var(--padding-base);
+    position: relative;
+    gap: 55.8px;
+    max-width: 1024px;
+  }
+  .section8 {
+    align-self: stretch;
+    background-color: var(--color-whitesmoke-100);
+    flex-direction: row;
+    justify-content: center;
+    padding: 74.2px var(--padding-xl) 74px;
+    flex-shrink: 0;
+    debug_commit: 448091;
+    max-width: 100%;
+    z-index: 1;
+    margin-top: -0.7px;
+  }
+  .svg-icon9 {
+    width: 26px;
+    height: 44px;
+    position: relative;
+  }
+  .testimonial-icons {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 0 var(--padding-11xs-9);
+  }
+  .and-pickup-and,
+  .communicates-with-the,
+  .you-do-all {
+    margin: 0;
+  }
+  .you-do-all-container {
+    margin: 0;
+    position: relative;
+    line-height: 40px;
+  }
+  .svg-icon10 {
+    width: 26px;
+    height: 44px;
+    position: relative;
+  }
+  .testimonial-icons1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 0 var(--padding-11xs-9);
+  }
+  .testimonial-quote {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: 63px;
+    flex-shrink: 0;
+  }
+  .nina-s {
+    position: relative;
+    text-transform: uppercase;
+    display: inline-block;
+    min-width: 67px;
+  }
+  .testimonial-author {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 var(--padding-xl);
+  }
+  .regional-project-manager {
+    position: relative;
+    font-size: var(--font-size-base);
+    line-height: 26px;
+    display: inline-block;
+    font-family: var(--wwwbigrentzcom-open-sans-bold-12-upper);
+    max-height: 26.08px;
+  }
+  .testimonial-author-info {
+    width: 477px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .testimonial-author-info-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 var(--padding-xl);
+    box-sizing: border-box;
+    max-width: 100%;
+    flex-shrink: 0;
+    font-size: var(--wwwbigrentzcom-work-sans-medium-18-size);
+  }
+  .testimonial,
+  .testimonial-content {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .testimonial {
+    flex: 1;
+    flex-direction: column;
+    gap: 25.1px;
+  }
+  .testimonial-content {
+    align-self: stretch;
+    flex-direction: row;
+    padding: 0 40px;
+    box-sizing: border-box;
+  }
+  .svg-icon11 {
+    height: 14px;
+    width: 14px;
+    position: relative;
+  }
+  .container108,
+  .container109 {
+    display: flex;
+    align-items: center;
+  }
+  .container109 {
+    flex-direction: row;
+    justify-content: center;
+    padding: var(--padding-7xs-7) 0 var(--padding-10xs-3);
+  }
+  .container108 {
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  .svg-icon12 {
+    height: 14px;
+    width: 14px;
+    position: relative;
+  }
+  .container111 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-7xs-7) 0 var(--padding-10xs-3);
+  }
+  .container110,
+  .margin13 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .margin13 {
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 0 0 var(--padding-smi);
+  }
+  .svg-icon13 {
+    height: 14px;
+    width: 14px;
+    position: relative;
+  }
+  .container112,
+  .container113 {
+    display: flex;
+    align-items: center;
+  }
+  .container113 {
+    flex-direction: row;
+    justify-content: center;
+    padding: var(--padding-7xs-7) 0 var(--padding-10xs-3);
+  }
+  .container112 {
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  .margin14 {
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 0 0 var(--padding-smi);
+  }
+  .container106,
+  .container107,
+  .margin14 {
+    display: flex;
+    align-items: flex-start;
+  }
+  .container107 {
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0 var(--padding-xl);
+    row-gap: 20px;
+  }
+  .container106 {
+    width: 1024px;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 0 var(--padding-base) var(--padding-56xl);
+    box-sizing: border-box;
+    gap: 53.1px;
+    max-width: 1024px;
+  }
+  .rental-form,
+  .section9 {
+    align-self: stretch;
+    display: flex;
+    align-items: flex-start;
+    max-width: 100%;
+  }
+  .section9 {
+    background-color: var(--color-steelblue-200);
+    flex-direction: row;
+    justify-content: center;
+    padding: 101px var(--padding-xl) 0;
+    box-sizing: border-box;
+    flex-shrink: 0;
+    debug_commit: 448091;
+    z-index: 2;
+    margin-top: -0.7px;
+    text-align: center;
+    font-size: 26px;
+    color: var(--color-white);
+  }
+  .rental-form {
+    flex-direction: column;
+    justify-content: flex-start;
+    text-align: left;
+    font-size: var(--font-size-15xl);
+    color: var(--wwwbigrentzcom-ebony-clay);
+    font-family: var(--wwwbigrentzcom-work-sans-medium-18);
+  }
+  .inc-500png-icon {
+    width: 100%;
+    flex: 1;
+    position: relative;
+    max-width: 245.98px;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .container116 {
+    align-self: stretch;
+    height: 74px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0 70px;
+    box-sizing: border-box;
+  }
+  .companies,
+  .inc-500-fastest-growing,
+  .inc-magazine-top {
+    margin: 0;
+  }
+  .inc-magazine-top-container {
+    position: relative;
+    line-height: 28.8px;
+  }
+  .strong {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+  }
+  .container117 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0 var(--padding-3xs) var(--padding-12xs-9);
+  }
+  .backgroundbordershadow15,
+  .margin15 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .margin15 {
+    align-self: stretch;
+    justify-content: flex-start;
+    padding: var(--padding-16xl-1) 0 0;
+  }
+  .backgroundbordershadow15 {
+    flex: 1;
+    box-shadow: 0 20px 20px rgba(0, 0, 0, 0.15);
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-white);
+    box-sizing: border-box;
+    justify-content: center;
+    padding: var(--padding-3xl) var(--padding-17xl);
+    min-width: 240px;
+  }
+  .orange-county-business-journal-icon {
+    width: 100%;
+    flex: 1;
+    position: relative;
+    max-width: 245.98px;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .container118 {
+    align-self: stretch;
+    height: 74px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0 var(--padding-9xs);
+    box-sizing: border-box;
+  }
+  .oc-business-journal,
+  .places-to-work {
+    margin: 0;
+  }
+  .oc-business-journal-container {
+    position: relative;
+    line-height: 28.8px;
+  }
+  .strong1 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+  }
+  .container119 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0 9px var(--padding-12xs-9);
+  }
+  .backgroundbordershadow16,
+  .margin16 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .margin16 {
+    align-self: stretch;
+    justify-content: flex-start;
+    padding: var(--padding-16xl-1) 0 0;
+  }
+  .backgroundbordershadow16 {
+    flex: 1;
+    box-shadow: 0 20px 20px rgba(0, 0, 0, 0.15);
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-white);
+    box-sizing: border-box;
+    justify-content: center;
+    padding: var(--padding-18xl) var(--padding-17xl);
+    min-width: 240px;
+  }
+  .entrepreneur-magazinepng-icon {
+    width: 100%;
+    flex: 1;
+    position: relative;
+    max-width: 245.98px;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .container120 {
+    align-self: stretch;
+    height: 74px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0 var(--padding-5xl);
+    box-sizing: border-box;
+  }
+  .entrepreneur-magazine,
+  .top-company-cultures {
+    margin: 0;
+  }
+  .entrepreneur-magazine-top-container {
+    position: relative;
+    line-height: 28.8px;
+  }
+  .strong2 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+  }
+  .container121,
+  .margin17 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0 var(--padding-lgi) var(--padding-12xs-9);
+  }
+  .margin17 {
+    align-items: flex-start;
+    padding: var(--padding-16xl-1) 0 0;
+  }
+  .backgroundbordershadow17,
+  .container115 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+  }
+  .backgroundbordershadow17 {
+    flex: 1;
+    box-shadow: 0 20px 20px rgba(0, 0, 0, 0.15);
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-white);
+    box-sizing: border-box;
+    flex-direction: column;
+    padding: var(--padding-18xl) var(--padding-17xl);
+    min-width: 240px;
+  }
+  .container115 {
+    align-self: stretch;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 0 var(--padding-5xs);
+    gap: var(--gap-base);
+  }
+  .container114,
+  .container19,
+  .section10 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  .container114 {
+    width: 100%;
+    align-items: flex-start;
+    padding: 0 var(--padding-5xs);
+    box-sizing: border-box;
+    max-width: 1024px;
+  }
+  .container19,
+  .section10 {
+    align-self: stretch;
+  }
+  .section10 {
+    background-color: var(--color-steelblue-200);
+    align-items: center;
+    padding: 0 var(--padding-xl) 115px;
+    box-sizing: border-box;
+    min-height: 360px;
+    text-align: center;
+    font-size: var(--wwwbigrentzcom-work-sans-medium-18-size);
+    color: var(--wwwbigrentzcom-ebony-clay);
+    font-family: var(--wwwbigrentzcom-work-sans-medium-18);
+  }
+  .container19 {
+    align-items: flex-start;
+    min-height: 300px;
+    max-width: 100%;
+  }
+  .cranes-dozers {
+    position: relative;
+    line-height: 29px;
+  }
+  .company-info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 3.7px 0 0;
+  }
+  .renters {
+    align-self: stretch;
+    position: relative;
+    line-height: 36px;
+    font-weight: 600;
+  }
+  .container125 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .easyrentz-client-portal {
+    position: relative;
+    line-height: 23px;
+  }
+  .item18,
+  .link57 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .item18 {
+    align-self: stretch;
+    flex-direction: column;
+  }
+  .service-areas1 {
+    position: relative;
+    line-height: 23px;
+    display: inline-block;
+    min-width: 93px;
+  }
+  .item19,
+  .link58 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .item19 {
+    align-self: stretch;
+    flex-direction: column;
+  }
+  .industry-solutions1 {
+    position: relative;
+    line-height: 23px;
+    display: inline-block;
+    min-width: 126px;
+  }
+  .item20,
+  .link59 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .item20 {
+    flex-direction: column;
+  }
+  .item20,
+  .list3,
+  .partners {
+    align-self: stretch;
+  }
+  .list3 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: var(--wwwbigrentzcom-work-sans-regular-14-size);
+    color: var(--color-gainsboro-200);
+  }
+  .partners {
+    position: relative;
+    line-height: 36px;
+    font-weight: 600;
+  }
+  .container126 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-3xl) 0 0;
+  }
+  .quickrentz-for-rental {
+    position: relative;
+    line-height: 23px;
+  }
+  .item21,
+  .link60 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .item21 {
+    align-self: stretch;
+    flex-direction: column;
+  }
+  .partner-with-bigrentz {
+    position: relative;
+    line-height: 23px;
+  }
+  .item22,
+  .link61 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .item22 {
+    align-self: stretch;
+    flex-direction: column;
+  }
+  .investor-relations {
+    position: relative;
+    line-height: 23px;
+    display: inline-block;
+    min-width: 123px;
+  }
+  .link62 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .item23 {
+    align-self: stretch;
+  }
+  .container124,
+  .item23,
+  .list4 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .list4 {
+    align-self: stretch;
+    font-size: var(--wwwbigrentzcom-work-sans-regular-14-size);
+    color: var(--color-gainsboro-200);
+  }
+  .container124 {
+    flex: 1;
+    gap: var(--gap-base);
+    min-width: 165px;
+  }
+  .resources1 {
+    align-self: stretch;
+    position: relative;
+    line-height: 36px;
+    font-weight: 600;
+  }
+  .container128 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .faqs {
+    position: relative;
+    line-height: 23px;
+    display: inline-block;
+    min-width: 35px;
+  }
+  .item24,
+  .link63 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .item24 {
+    align-self: stretch;
+    flex-direction: column;
+  }
+  .rental-guides {
+    position: relative;
+    line-height: 23px;
+    display: inline-block;
+    min-width: 95px;
+  }
+  .item25,
+  .link64 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .item25 {
+    align-self: stretch;
+    flex-direction: column;
+  }
+  .equipment-manuals {
+    position: relative;
+    line-height: 23px;
+  }
+  .item26,
+  .link65 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .item26 {
+    align-self: stretch;
+    flex-direction: column;
+  }
+  .case-studies {
+    position: relative;
+    line-height: 23px;
+    display: inline-block;
+    min-width: 90px;
+  }
+  .item27,
+  .link66 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .item27 {
+    flex-direction: column;
+  }
+  .item27,
+  .links,
+  .list5 {
+    align-self: stretch;
+  }
+  .list5 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: var(--wwwbigrentzcom-work-sans-regular-14-size);
+    color: var(--color-gainsboro-200);
+  }
+  .links {
+    position: relative;
+    line-height: 36px;
+    font-weight: 600;
+  }
+  .container129 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-3xl) 0 0;
+  }
+  .quality-policy {
+    position: relative;
+    line-height: 23px;
+    display: inline-block;
+    min-width: 93px;
+  }
+  .item28,
+  .link67 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .item28 {
+    align-self: stretch;
+    flex-direction: column;
+  }
+  .citation-policy {
+    position: relative;
+    line-height: 23px;
+    display: inline-block;
+    min-width: 98px;
+  }
+  .item29,
+  .link68 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .item29 {
+    align-self: stretch;
+    flex-direction: column;
+  }
+  .careers {
+    position: relative;
+    line-height: 23px;
+    display: inline-block;
+    min-width: 52px;
+  }
+  .item30,
+  .link69 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .item30 {
+    align-self: stretch;
+    flex-direction: column;
+  }
+  .credit-application {
+    position: relative;
+    line-height: 23px;
+    display: inline-block;
+    min-width: 123px;
+  }
+  .link70 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .item31 {
+    align-self: stretch;
+  }
+  .container127,
+  .item31,
+  .list6 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .list6 {
+    align-self: stretch;
+    font-size: var(--wwwbigrentzcom-work-sans-regular-14-size);
+    color: var(--color-gainsboro-200);
+  }
+  .container127 {
+    width: 178.9px;
+    padding: 0;
+    box-sizing: border-box;
+    gap: var(--gap-base);
+  }
+  .customer-care {
+    position: relative;
+    line-height: 36px;
+    font-weight: 600;
+  }
+  .phone-number {
+    position: relative;
+    line-height: 23px;
+    display: inline-block;
+    min-width: 101px;
+  }
+  .item32,
+  .link71 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .item32 {
+    align-self: stretch;
+    flex-direction: column;
+  }
+  .customercarebigrentzcom {
+    position: relative;
+    line-height: 23px;
+    white-space: nowrap;
+  }
+  .link72 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .customer-care-parent,
+  .item33,
+  .list7 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .list7 {
+    font-size: var(--wwwbigrentzcom-work-sans-regular-14-size);
+    color: var(--color-gainsboro-200);
+  }
+  .customer-care-parent {
+    gap: 15.3px;
+  }
+  .corporate-office {
+    position: relative;
+    line-height: 26px;
+    display: inline-block;
+    min-width: 114px;
+  }
+  .irvine-ca-92612,
+  .michelson-dr-suite {
+    margin: 0;
+  }
+  .michelson-dr-suite-container {
+    position: relative;
+    line-height: 26px;
+    color: var(--color-gainsboro-200);
+  }
+  .office-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 0 15.3px;
+    font-size: var(--wwwbigrentzcom-work-sans-regular-14-size);
+    color: var(--color-whitesmoke-100);
+  }
+  .svg-icon14,
+  .svg-icon15,
+  .svg-icon16,
+  .svg-icon17 {
+    height: 21px;
+    width: 21px;
+    position: relative;
+    min-height: 21px;
+  }
+  .customer-care-container,
+  .social-icons {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 19.8px;
+  }
+  .customer-care-container {
+    width: 242.8px;
+    flex-direction: column;
+    gap: 36.8px;
+  }
+  .container123,
+  .footer-content,
+  .horizontalborder4 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    max-width: 100%;
+  }
+  .container123 {
+    width: 716px;
+    justify-content: center;
+    gap: 20.1px;
+    text-align: left;
+    font-size: var(--font-size-lgi);
+    font-family: var(--wwwbigrentzcom-work-sans-medium-18);
+  }
+  .footer-content,
+  .horizontalborder4 {
+    box-sizing: border-box;
+  }
+  .horizontalborder4 {
+    flex: 1;
+    border-bottom: 1px solid var(--wwwbigrentzcom-waterloo);
+    justify-content: space-between;
+    padding: 0 0 var(--padding-20xl);
+    gap: var(--gap-xl);
+  }
+  .footer-content {
+    align-self: stretch;
+    justify-content: flex-start;
+    padding: 0 var(--padding-5xs);
+  }
+  .loaders-dozers1 {
+    position: relative;
+    line-height: 26px;
+    display: inline-block;
+    max-height: 26.04px;
+  }
+  .container132 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .terms-of-service {
+    text-decoration: underline;
+    position: relative;
+    line-height: 26px;
+    color: inherit;
+    display: inline-block;
+    min-width: 114px;
+    max-height: 26.04px;
+  }
+  .link73 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+  }
+  .privacy-policy {
+    text-decoration: underline;
+    position: relative;
+    line-height: 26px;
+    color: inherit;
+    display: inline-block;
+    min-width: 92px;
+    max-height: 26.04px;
+  }
+  .link74 {
+    justify-content: center;
+  }
+  .container131,
+  .container133,
+  .link74 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+  }
+  .container133 {
+    justify-content: flex-start;
+    gap: 24.8px;
+  }
+  .container131 {
+    align-self: stretch;
+    justify-content: space-between;
+    max-width: 100%;
+    gap: var(--gap-xl);
+  }
+  .container122,
+  .container130 {
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 0 var(--padding-5xs);
+    box-sizing: border-box;
+  }
+  .container130 {
+    align-self: stretch;
+    display: flex;
+    align-items: flex-start;
+    max-width: 100%;
+    font-size: var(--wwwbigrentzcom-work-sans-regular-14-size);
+    color: var(--wwwbigrentzcom-waterloo);
+    font-family: var(--wwwbigrentzcom-work-sans-medium-18);
+  }
+  .container122 {
+    width: 1024px;
+    gap: 34px;
+    max-width: 1024px;
+  }
+  .container122,
+  .footer,
+  .landing-page2 {
+    display: flex;
+    align-items: flex-start;
+  }
+  .footer {
+    align-self: stretch;
+    background-color: var(--wwwbigrentzcom-ebony-clay);
+    flex-direction: row;
+    justify-content: center;
+    padding: var(--padding-59xl) var(--padding-xl) var(--padding-19xl);
+    box-sizing: border-box;
+    max-width: 100%;
+    text-align: center;
+    font-size: var(--wwwbigrentzcom-work-sans-medium-18-size);
+    color: var(--color-white);
+    font-family: var(--font-wendy-one);
+  }
+  .landing-page2 {
+    width: 100%;
+    position: relative;
+    background: linear-gradient(#fefefe, #fefefe), #fff;
+    overflow-y: auto;
+    flex-direction: column;
+    justify-content: flex-start;
+    line-height: normal;
+    letter-spacing: normal;
+  }
+  @media screen and (max-width: 1350px) {
+    .section5 {
+      padding-bottom: var(--padding-56xl);
+      box-sizing: border-box;
+    }
+    .section-wrapper {
+      padding-bottom: 89px;
+      box-sizing: border-box;
+    }
+    .container92 {
+      max-width: 100%;
+    }
+  }
+  @media screen and (max-width: 1150px) {
+    .container,
+    .container23,
+    .section2 {
+      max-width: 100%;
+    }
+    .section1 {
+      gap: 55px;
+    }
+    .container25,
+    .container36 {
+      max-width: 100%;
+    }
+    .backgroundbordershadow10,
+    .backgroundbordershadow11,
+    .backgroundbordershadow12,
+    .backgroundbordershadow13,
+    .backgroundbordershadow9,
+    .container42,
+    .container52,
+    .container62,
+    .container72,
+    .container82 {
+      flex-wrap: wrap;
+    }
+    .container40 {
+      max-width: 100%;
+    }
+    .container93 {
+      flex-wrap: wrap;
+    }
+    .solution-header {
+      flex: 1;
+    }
+    .background5 {
+      flex-wrap: wrap;
+      padding-left: var(--padding-20xl);
+      padding-right: var(--padding-20xl);
+      box-sizing: border-box;
+    }
+    .section6 {
+      max-width: 100%;
+    }
+    .benefits {
+      padding-bottom: var(--padding-46xl);
+      box-sizing: border-box;
+    }
+    .header-background {
+      flex: 1;
+    }
+    .backgroundbordershadow14 {
+      flex-wrap: wrap;
+      gap: 37px;
+      padding-left: var(--padding-13xl);
+      padding-right: var(--padding-13xl);
+      box-sizing: border-box;
+    }
+    .container100 {
+      max-width: 100%;
+    }
+    .app-container-parent {
+      flex: 1;
+    }
+    .container-parent {
+      flex-wrap: wrap;
+      gap: 36px;
+    }
+    .container103 {
+      max-width: 100%;
+    }
+    .section8 {
+      padding-bottom: 48px;
+      box-sizing: border-box;
+    }
+    .testimonial-quote {
+      gap: 31px;
+    }
+    .container106,
+    .container114 {
+      max-width: 100%;
+    }
+    .horizontalborder4 {
+      flex-wrap: wrap;
+    }
+    .container122 {
+      max-width: 100%;
+    }
+  }
+  @media screen and (max-width: 800px) {
+    .container2 {
+      padding-left: var(--padding-143xl);
+      box-sizing: border-box;
+    }
+    .container1 {
+      gap: var(--gap-xl);
+    }
+    .the-nations-local-container {
+      font-size: 42px;
+      line-height: 59px;
+    }
+    .input-conduct-a-search {
+      padding-left: var(--padding-3xl);
+      padding-right: var(--padding-3xl);
+      box-sizing: border-box;
+      min-width: 100%;
+    }
+    .section2 {
+      height: auto;
+    }
+    .equipment1 {
+      font-size: var(--font-size-8xl);
+      line-height: 38px;
+    }
+    .horizontalborder {
+      gap: var(--gap-lg);
+    }
+    .section1 {
+      gap: var(--gap-9xl);
+    }
+    .best-deals {
+      font-size: var(--font-size-8xl);
+      line-height: 38px;
+    }
+    .container43 {
+      flex-wrap: wrap;
+      padding-right: var(--padding-151xl);
+      box-sizing: border-box;
+    }
+    .backgroundbordershadow9 {
+      gap: var(--gap-xl);
+    }
+    .container53 {
+      flex-wrap: wrap;
+      padding-right: var(--padding-143xl);
+      box-sizing: border-box;
+    }
+    .backgroundbordershadow10 {
+      gap: var(--gap-xl);
+    }
+    .container63 {
+      flex-wrap: wrap;
+      padding-right: var(--padding-143xl);
+      box-sizing: border-box;
+    }
+    .backgroundbordershadow11 {
+      gap: var(--gap-xl);
+    }
+    .container73 {
+      flex-wrap: wrap;
+      padding-right: 176px;
+      box-sizing: border-box;
+    }
+    .backgroundbordershadow12 {
+      gap: var(--gap-xl);
+    }
+    .container83 {
+      flex-wrap: wrap;
+      padding-right: var(--padding-151xl);
+      box-sizing: border-box;
+    }
+    .backgroundbordershadow13 {
+      gap: var(--gap-xl);
+    }
+    .section5 {
+      padding-bottom: 49px;
+      box-sizing: border-box;
+    }
+    .section-wrapper {
+      padding-bottom: var(--padding-39xl);
+      box-sizing: border-box;
+    }
+    .industry-solutions {
+      font-size: var(--font-size-8xl);
+      line-height: 38px;
+    }
+    .solution-header {
+      min-width: 100%;
+    }
+    .list1 {
+      flex: 1;
+    }
+    .container98 {
+      flex-wrap: wrap;
+    }
+    .background5 {
+      padding-top: var(--padding-19xl);
+      padding-bottom: var(--padding-19xl);
+      box-sizing: border-box;
+    }
+    .benefits {
+      padding-bottom: var(--padding-23xl);
+      box-sizing: border-box;
+    }
+    .already-know-what-container {
+      font-size: var(--font-size-8xl);
+      line-height: 38px;
+    }
+    .backgroundbordershadow14 {
+      gap: var(--gap-lgi);
+      padding-top: var(--padding-18xl);
+      padding-bottom: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .section7 {
+      padding-top: var(--padding-54xl);
+      padding-bottom: var(--padding-54xl);
+      box-sizing: border-box;
+    }
+    .think-big {
+      font-size: var(--font-size-8xl);
+      line-height: 38px;
+    }
+    .supply-chain-automation-herow-icon {
+      max-width: 100%;
+    }
+    .app-container-parent {
+      min-width: 100%;
+    }
+    .container-parent {
+      gap: var(--gap-lg);
+    }
+    .container103 {
+      gap: var(--gap-9xl);
+    }
+    .container106 {
+      gap: 27px;
+    }
+    .container123,
+    .container131 {
+      flex-wrap: wrap;
+    }
+    .container122 {
+      gap: 17px;
+    }
+    .footer {
+      padding-top: 51px;
+      padding-bottom: var(--padding-6xl);
+      box-sizing: border-box;
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .container2 {
+      padding-left: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .the-nations-local-container {
+      font-size: 32px;
+      line-height: 45px;
+    }
+    .equipment1 {
+      font-size: var(--font-size-xl);
+      line-height: 29px;
+    }
+    .linkmargin1 {
+      margin-left: 0;
+    }
+    .earthmoving-label {
+      flex-wrap: wrap;
+    }
+    .container23,
+    .horizontalborder {
+      height: auto;
+    }
+    .boom-lifts {
+      font-size: var(--font-size-mid);
+      line-height: 20px;
+    }
+    .link9 {
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .backgroundbordershadow {
+      padding-top: var(--padding-xl);
+      padding-bottom: var(--padding-8xl);
+      box-sizing: border-box;
+    }
+    .scissor-lifts {
+      font-size: var(--font-size-mid);
+      line-height: 20px;
+    }
+    .link12 {
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .backgroundbordershadow1 {
+      padding-top: var(--padding-xl);
+      padding-bottom: var(--padding-8xl);
+      box-sizing: border-box;
+    }
+    .forklifts-material-container {
+      font-size: var(--font-size-mid);
+      line-height: 20px;
+    }
+    .link15 {
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .backgroundbordershadow2 {
+      padding-top: var(--padding-xl);
+      padding-bottom: var(--padding-8xl);
+      box-sizing: border-box;
+    }
+    .single-man-lifts {
+      font-size: var(--font-size-mid);
+      line-height: 20px;
+    }
+    .link18 {
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .backgroundbordershadow3 {
+      padding-top: var(--padding-xl);
+      padding-bottom: var(--padding-8xl);
+      box-sizing: border-box;
+    }
+    .earthmoving-equipment {
+      font-size: var(--font-size-mid);
+      line-height: 20px;
+    }
+    .link21 {
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .backgroundbordershadow4 {
+      padding-top: var(--padding-xl);
+      padding-bottom: var(--padding-8xl);
+      box-sizing: border-box;
+    }
+    .construction-site-services-container {
+      font-size: var(--font-size-mid);
+      line-height: 20px;
+    }
+    .link24 {
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .backgroundbordershadow5 {
+      padding-top: var(--padding-xl);
+      padding-bottom: var(--padding-8xl);
+      box-sizing: border-box;
+    }
+    .compaction-equipment {
+      font-size: var(--font-size-mid);
+      line-height: 20px;
+    }
+    .link27 {
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .backgroundbordershadow6 {
+      padding-top: var(--padding-xl);
+      padding-bottom: var(--padding-8xl);
+      box-sizing: border-box;
+    }
+    .cranes {
+      font-size: var(--font-size-mid);
+      line-height: 20px;
+    }
+    .link30 {
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .backgroundbordershadow7 {
+      padding-top: var(--padding-xl);
+      padding-bottom: var(--padding-8xl);
+      box-sizing: border-box;
+    }
+    .towable-air-compressors-container {
+      font-size: var(--font-size-mid);
+      line-height: 20px;
+    }
+    .link33 {
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .backgroundbordershadow8 {
+      padding-top: var(--padding-xl);
+      padding-bottom: var(--padding-8xl);
+      box-sizing: border-box;
+    }
+    .best-deals {
+      font-size: var(--font-size-xl);
+      line-height: 29px;
+    }
+    .month-value,
+    .price-value,
+    .week-value {
+      font-size: var(--font-size-base);
+    }
+    .container43 {
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .div,
+    .div1,
+    .div2 {
+      font-size: var(--font-size-base);
+    }
+    .container53 {
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .div3,
+    .div4,
+    .div5 {
+      font-size: var(--font-size-base);
+    }
+    .container63 {
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .div6,
+    .div7,
+    .div8 {
+      font-size: var(--font-size-base);
+    }
+    .container73 {
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .month-value1,
+    .price-value1,
+    .week-value1 {
+      font-size: var(--font-size-base);
+    }
+    .container83 {
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .easy-online-rental {
+      font-size: var(--font-size-lgi);
+      line-height: 27px;
+    }
+    .benefit-title {
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .container94 {
+      gap: var(--gap-lgi);
+      flex: 1;
+    }
+    .spot-rent-onlinepng-wrapper {
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .effortless-purchase {
+      font-size: var(--font-size-lgi);
+      line-height: 27px;
+    }
+    .container95 {
+      gap: var(--gap-lgi);
+    }
+    .suppliers-nationwide {
+      font-size: var(--font-size-lgi);
+      line-height: 27px;
+    }
+    .container96 {
+      gap: var(--gap-lgi);
+      flex: 1;
+    }
+    .spot-we-do-everythingpng-wrapper {
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .we-handle-everything {
+      font-size: var(--font-size-lgi);
+      line-height: 27px;
+    }
+    .container97 {
+      gap: var(--gap-lgi);
+      flex: 1;
+    }
+    .industry-solutions {
+      font-size: var(--font-size-xl);
+      line-height: 29px;
+    }
+    .solution-title {
+      gap: var(--gap-3xl);
+    }
+    .already-know-what-container {
+      font-size: var(--font-size-xl);
+      line-height: 29px;
+    }
+    .form-title {
+      gap: var(--gap-3xl);
+    }
+    .backgroundborder {
+      flex-wrap: wrap;
+      gap: 59px;
+    }
+    .input-fields {
+      gap: var(--gap-base);
+    }
+    .think-big {
+      font-size: var(--font-size-xl);
+      line-height: 29px;
+    }
+    .supply-chain-automation-container {
+      font-size: 22px;
+      line-height: 31px;
+    }
+    .container104 {
+      min-width: 100%;
+    }
+    .contractor-apps-herojpg-icon {
+      width: 100%;
+    }
+    .app-image-container {
+      flex: 1;
+    }
+    .app-content {
+      flex-wrap: wrap;
+    }
+    .warehouse-logistics-herowebp-icon {
+      width: 100%;
+    }
+    .horizontalborder2 {
+      flex-wrap: wrap;
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .top-construction-companies-lar-icon {
+      width: 100%;
+    }
+    .horizontalborder3 {
+      flex-wrap: wrap;
+    }
+    .section8 {
+      padding-bottom: 31px;
+      box-sizing: border-box;
+    }
+    .you-do-all-container {
+      font-size: var(--font-size-2xl);
+      line-height: 32px;
+    }
+    .testimonial-quote {
+      gap: var(--gap-base);
+    }
+    .container107 {
+      flex-wrap: wrap;
+    }
+    .section10 {
+      padding-bottom: var(--padding-56xl);
+      box-sizing: border-box;
+    }
+  }
+  

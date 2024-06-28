@@ -1,0 +1,35 @@
+/* ImageComponent.css */
+
+.image-container {
+    text-align: center; /* Center align the image */
+    margin-top: 0px; /* Adjust margin top as needed */
+}
+
+.image-container img {
+    max-width: 100%; /* Ensure image scales with container width */
+    height: auto; /* Maintain aspect ratio */
+}
+.image-overlay {
+    
+    position: absolute;
+    top: 32%;
+    left: 50%;
+    font: Work Sans;
+    font-size: 50px;
+    transform: translate(-50%, -50%);
+    Weight:900;
+    Size:53px;
+    Line-height:74.2px;
+    color: #ffffff; /* Text color */
+    padding: 20px;
+    text-align: center;
+}
+.layout{
+    width: 562px;
+height: 80px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+
