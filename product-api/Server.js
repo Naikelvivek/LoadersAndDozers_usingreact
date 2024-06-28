@@ -58,6 +58,20 @@ app.get("/products", async (req, res) => {
   }
 });
 
+// Route to handle GET request to fetch a product by id
+app.get("/products/:id", async (req, res) => {
+  try {
+    const product = await Product.findOne({ id: req.params.id });
+    if (product) {
+      res.json(product);
+    } else {
+      res.status(404).send("Product not found");
+    }
+  } catch (err) {
+    res.status(500).send(err.message);
+  }
+});
+
 // Start the server
 app.listen(port, () => {
   console.log(`Server is running on http://localhost:${port}`);

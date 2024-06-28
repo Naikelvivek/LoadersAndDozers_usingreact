@@ -1,10 +1,11 @@
 import React, { useState, useEffect } from 'react';
-import { NavLink } from 'react-router-dom';
+import { NavLink, useLocation } from 'react-router-dom';
 
-const Products = () => {
+const Products = ({ category }) => {
     const [data, setData] = useState([]);
     const [loading, setLoading] = useState(false);
     const [filter, setFilter] = useState([]);
+    const location = useLocation();
 
     useEffect(() => {
         const getProducts = async () => {
@@ -14,7 +15,11 @@ const Products = () => {
                 if (response.ok) {
                     const products = await response.json();
                     setData(products);
-                    setFilter(products); // Initialize filter state with all products
+                    if (category) {
+                        setFilter(products.filter((product) => product.category.toLowerCase() === category.toLowerCase()));
+                    } else {
+                        setFilter(products); // Initialize filter state with all products
+                    }
                 } else {
                     console.error('Failed to fetch products');
                 }
@@ -25,7 +30,7 @@ const Products = () => {
             }
         };
         getProducts();
-    }, []);
+    }, [category, location.pathname]); // Add location.pathname to the dependency array
 
     const Loading = () => {
         return (
@@ -39,11 +44,6 @@ const Products = () => {
                 ))}
             </div>
         );
-    };
-
-    const filterProduct = (cat) => {
-        const updatedList = data.filter((x) => x.category.toLowerCase() === cat.toLowerCase());
-        setFilter(updatedList);
     };
 
     const ShowProducts = () => {
@@ -72,7 +72,6 @@ const Products = () => {
         <div className="container my-5 py-5">
             <div className="row">
                 <div className="col-12 mb-5">
-                    <h1 className="display-6 fw-bolder text-center">Products</h1>
                     <hr />
                     <div className="row justify-content-center">
                         {loading ? <Loading /> : <ShowProducts />}

@@ -2,7 +2,7 @@
 
 .custom-navbar {
     background-color: #EC9230; /* Specific background color for the navbar */
-    width: 1900px; /* Fixed width */
+    width: 1800px; /* Fixed width */
     height: 144px; /* Fixed height */
     padding: 23px 448px 24px 100px; /* Padding values */
     overflow-x: hidden; /* Disable horizontal scrolling */

@@ -1,6 +1,7 @@
 import React from 'react';
 import './Navbar.css'; // Import local styles for Navbar
 import logo from '../assets/loadersdozers-1@2x.png';
+import { NavLink } from 'react-router-dom';
 import { FaMapMarkerAlt, FaSearch, FaShoppingCart, FaUserCircle } from 'react-icons/fa';
 
 const Navbar = () => {
@@ -14,10 +15,8 @@ const Navbar = () => {
 
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav mx-auto">
-                        <li className="nav-item dropdown">
-                            <a className="nav-link dropdown-toggle" href="#" id="navbarDropdown1" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                Equipment
-                            </a>
+                        <li className="nav-item">
+                            <NavLink className="nav-link" to="/products/equipment">Equipment</NavLink>
                         </li>
                         <li className="nav-item">
                             <a className="nav-link" href="#">Service areas</a>
@@ -39,13 +38,13 @@ const Navbar = () => {
                             <a className="nav-link" href="#"><FaMapMarkerAlt /> (888) 325-5172</a>
                         </li>
                         <li className="nav-item-1">
-                        <button className="btn btn-outline-primary rounded-pill mr-3">Sign In</button>
+                            <button className="btn btn-outline-primary rounded-pill mr-3">Sign In</button>
                         </li>
                         <li className="nav-item">
                             <a className="nav-link" href="#"><FaSearch /></a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#"><FaShoppingCart /></a>
+                            <NavLink className="nav-link" to="/cart"><FaShoppingCart /></NavLink>
                         </li>
                     </ul>
                 </div>
